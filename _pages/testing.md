@@ -8,7 +8,7 @@ title: testing
      - i am coding rn
 2. rape a boy
    - do it
-     - cringe ass
+     - cringe ass :smile:
 > [!NOTE]
 > my mother is a male
 
