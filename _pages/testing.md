@@ -8,7 +8,13 @@ title: testing
      - i am coding rn
 2. rape a boy
    - do it
+<<<<<<< HEAD
+     - cringe ass 😏
+> [!NOTE]
+> my mother is a male
+=======
      - cringe ass
+>>>>>>> c0df44982fa17b7231c5061e8b8069480d4c230e
 
 i love ts
 
@@ -35,3 +41,5 @@ earrearea hi
 
 eerer hi there its me helooo
  is there 
+ stfu
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
