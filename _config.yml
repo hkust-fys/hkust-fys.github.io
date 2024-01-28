@@ -1,1 +1,3 @@
 remote_theme: sighingnow/jekyll-gitbook
+toc:
+  enabled: true
