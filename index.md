@@ -1,6 +1,6 @@
 ---
-layout: home
-title: home
+layout: hell
+title: hell
 ---
 
 home
