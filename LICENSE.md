@@ -170,4 +170,4 @@ d. Nothing in this Public License constitutes or may be interpreted as a limitat
 >
 > Creative Commons may be contacted at creativecommons.org.
 
-_Adapted from <https://github.com/idleberg/Creative-Commons-Markdown/blob/b6c35dc32922d98a503c79ee8912bc77872b2ec9/4.0/by-sa.markdown>._ <!-- markdownlint-configure-file { "MD026": false } -->
+_Adapted from <https://github.com/idleberg/Creative-Commons-Markdown/blob/b6c35dc32922d98a503c79ee8912bc77872b2ec9/4.0/by-sa.markdown>._
