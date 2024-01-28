@@ -1,6 +1,6 @@
 ---
-layout: post
-title: testing
+layout: home
+title: home
 ---
 
-testing
+home
