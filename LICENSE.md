@@ -10,8 +10,6 @@ Creative Commons Corporation (“Creative Commons”) is not a law firm and does
 >
 > * **Considerations for the public:** By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
 
-<!-- markdownlint-disable MD026 -->
-
 ## Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
@@ -173,3 +171,5 @@ d. Nothing in this Public License constitutes or may be interpreted as a limitat
 > Creative Commons may be contacted at creativecommons.org.
 
 _Adapted from <https://github.com/idleberg/Creative-Commons-Markdown/blob/b6c35dc32922d98a503c79ee8912bc77872b2ec9/4.0/by-sa.markdown>._
+
+<!-- markdownlint-configure-file { "MD026": false } -->
