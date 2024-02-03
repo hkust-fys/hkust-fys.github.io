@@ -5,7 +5,7 @@ title: Homepage
 
 Welcome to the homepage!
 
-We aim to provide a platform for all USTers to know about anything about UST, especially the program pathways, courses, instructors, activities provided, societies and maybe even sources, gossips. This platform is editable for everyone, but we, ***HKUST FYS DISCORD*** members are going to be the pioneers. If you are reading this, feel free to complete this enormous jigsaw puzzle with us!
+We aim to provide a platform for all USTers to know about anything about UST, especially the program pathways, courses, instructors, activities provided, societies and maybe even sources, gossips, etc. This platform is editable for everyone, but we, ***HKUST FYS DISCORD*** members are going to be the pioneers. If you are reading this, feel free to complete this enormous jigsaw puzzle with us!
 
 First, if you are unfamiliar with editing in github, you may want to visit [editing guide]()
 Second, here's the table of content:
@@ -20,7 +20,10 @@ Second, here's the table of content:
    2. [courses]()
    3. [mating :👀:]()
    4. [activities]()
-3. __[others]()__
+3. __[Anecdotes]()__
+   1. [school foundation and history]()
+   2. [gossips]()
+   3. [ghost stories]()
 
 ***HKUST FYS DISCORD*** is a student managed server mainly for chit-chat and exchanging inspirations. We welcome everyone including non-UST members to learn more about here. Non-scheduled activities in real life are held sometimes for fostering the bonding between members. 
 
