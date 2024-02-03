@@ -21,3 +21,8 @@ Second, here's the table of content:
    3. [mating :👀:]()
    4. [activities]()
 3. __[others]()__
+
+***HKUST FYS DISCORD*** is a student managed server mainly for chit-chat and exchanging inspirations. We welcome everyone including non-UST members to learn more about here. Non-scheduled activities in real life are held sometimes for fostering the bonding between members. 
+
+LINK FOR JOINING:
+[https://discord.gg/h9RPQyWnA6] (https://discord.gg/h9RPQyWnA6)
