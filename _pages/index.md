@@ -9,7 +9,7 @@ We aim to provide a platform for all USTers to know about anything about UST, es
 
 First, for editors, if you are unfamiliar with editing in github, you may want to visit [editing guide]() and [rules for editors]()
 > [!IMPORTANT]
-> Please read the [rules for editors]() before editing!ee
+> Please read the [rules for editors]() before editing!
 
 Second, for readers, here's the table of content:
 1. __[Vocabulary]()__
