@@ -34,4 +34,4 @@ Second, for **READERS**s, here's the table of content:
 
 LINK FOR JOINING: [https://discord.gg/h9RPQyWnA6](https://discord.gg/h9RPQyWnA6)
 
-[rules for editors]: https://discord.gg/h9RPQyWnA6
+[rules for editors]: /meta/index
