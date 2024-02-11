@@ -1,5 +1,5 @@
 ---
-layout: hell
+layout: home
 title: Homepage
 ---
 
