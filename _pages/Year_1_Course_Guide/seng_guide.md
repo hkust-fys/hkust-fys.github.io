@@ -3,8 +3,8 @@ layout: post
 title: Year 1 SENG Optimal Pathway
 ---
 
-Written by Happypig375 \
-Edited by nuclearc0w\
+Written by @Happypig375\
+Edited by @nuclearc0w\
 Disclaimer: not for IIM (IIM plan on their own)  
 
 ### 16-18 credit Fall:
@@ -44,93 +44,79 @@ Disclaimer: not for IIM (IIM plan on their own)
 For best-24 credits in Major Selection Exercise, you must have at least 2 engineering intro courses or else F grade(s) will be counted. One of them is COMP1021.  
 Pick another from (in order of USTSpace ratings, from best to worst, [source](https://hkustconnect-my.sharepoint.com/:x:/g/personal/yhchowai_connect_ust_hk/EZnw7RyVRNNJksiyekxhmBcBjH6Sp_usdKIyvmLyuPetZg?e=lajVoi)):  
 
-<table>
-  <tr>
-    <th>Course Code</th> <th>Course Title</th> <th>Credits</th> <th>Grade Points (Best to Worst, 4.3 to 0.0)</th>
-  </tr>
-  <tr> <td>COMP1021</td> <td>Introduction to Computer Science</td> <td>3</td> <td>3.6</td> </tr>
-  <tr> <td>BIEN1010</td> <td>Introduction to Biomedical Engineering</td> <td>3</td> <td>3.6</td> </tr>
-  <tr> <td>MECH1907</td> <td>Introduction to Aerospace Engineering</td> <td>3</td> <td>3.5</td> </tr>
-  <tr> <td>IEDA2010</td> <td>Introduction of Industrial Engineering and Decision Analytics</td> <td>3</td> <td>3.4</td> </tr>
-  <tr> <td>CIVL1100</td> <td>Discovering Civil and Environmental Engineering</td> <td>3</td> <td>3.25</td> </tr>
-  <tr> <td>ELEC1100</td> <td>Introduction to Electro-Robot Design</td> <td>4</td> <td>3.225</td> </tr>
-  <tr> <td>MECH1902</td> <td>Energy Systems in a Sustainable World</td> <td>3</td> <td>3.225</td> </tr>
-  <tr> <td>CENG1500</td> <td>A First Course in Materials Science and Applications</td> <td>3</td> <td>3.175</td> </tr>
-  <tr> <td>ELEC1200</td> <td>A System View of Communications: from Signals to Packets</td> <td>4</td> <td>3.15</td> </tr>
-  <tr> <td>COMP1022P</td> <td>Introduction to Computing with Java</td> <td>3</td> <td>3.075</td> </tr>
-  <tr> <td>CENG1000</td> <td>Introduction to Chemical and Biological Engineering</td> <td>3</td> <td>2.9</td> </tr>
-  <tr> <td>CENG1700</td> <td>Introduction to Environmental Engineering</td> <td>3</td> <td>2.75</td> </tr>
-  <tr> <td>ISDN1002</td> <td>Redefining Problems for the Real Needs</td> <td>3</td> <td>2.7</td> </tr>
-  <tr> <td>ENGG1100</td> <td>First Year Cornerstone Engineering Design Project Course</td> <td>3</td> <td>2.175</td> </tr>
-  <tr> <td>MECH1906</td> <td>Mechanical Engineering for Modern Life</td> <td>3</td> <td>2.175</td> </tr>
-  <tr> <td>ISDN1001</td> <td>Introduction to Integrative Systems and Design</td> <td>3</td> <td>2</td> </tr>
-  <tr> <td>ISDN1006</td> <td>Human-Centered Innovation</td> <td>3</td> <td>1.5</td> </tr>
-  <tr> <td>CIVL1210</td> <td>Fundamentals of Green Buildings</td> <td>3</td> <td>3</td> </tr>
-</table>
+Course Code | Course Title | Credits | Grade Points (Best to Worst, 4.3 to 0.0)
+:---------- | :----------- | :------ | :---------------------------------------
+COMP1021    | Introduction to Computer Science                              | 3 | 3.6
+BIEN1010    | Introduction to Biomedical Engineering                        | 3 | 3.6
+MECH1907    | Introduction to Aerospace Engineering                         | 3 | 3.5
+IEDA2010    | Introduction of Industrial Engineering and Decision Analytics | 3 | 3.4
+CIVL1100    | Discovering Civil and Environmental Engineering               | 3 | 3.25
+ELEC1100    | Introduction to Electro-Robot Design                          | 4 | 3.225
+MECH1902    | Energy Systems in a Sustainable World                         | 3 | 3.225
+CENG1500    | A First Course in Materials Science and Applications          | 3 | 3.175
+ELEC1200    | A System View of Communications: from Signals to Packets      | 4 | 3.15
+COMP1022P   | Introduction to Computing with Java                           | 3 | 3.075
+CENG1000    | Introduction to Chemical and Biological Engineering           | 3 | 2.9
+CENG1700    | Introduction to Environmental Engineering                     | 3 | 2.75
+ISDN1002    | Redefining Problems for the Real Needs                        | 3 | 2.7
+ENGG1100    | First Year Cornerstone Engineering Design Project Course      | 3 | 2.175
+MECH1906    | Mechanical Engineering for Modern Life                        | 3 | 2.175
+ISDN1001    | Introduction to Integrative Systems and Design                | 3 | 2
+ISDN1006    | Human-Centered Innovation                                     | 3 | 1.5
+CIVL1210    | Fundamentals of Green Buildings                               | 3 | 3
 
 If you're not aiming for COMP/CPEG/DSCT/RMBI/EVMT, please choose your aimed major's introduction course first to not waste credits. Only plan major headstarts after picking your second engineering intro course!!!
 
 ### Major headstart list
 
 For the latest information, refer to [major requirements](https://prog-crs.hkust.edu.hk/ugprog) and [USTSpace](https://ust.space/) (remember to sort by _Semester_ or _Post Date_)  
-<details>
+<details markdown="1">
 <summary>BIEN</summary>
 
-<div markdown="1">
 - [BIEN1010](https://ust.space/review/BIEN1010) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\] + CHEM1050 \[1\]
 - [LIFS1901](https://ust.space/review/LIFS1901) \[3\] (if DSE Biology < 3)
 - [BIEN2410](https://ust.space/review/BIEN2410) (Spring) \[3\] (if DSE Biology >= 3 or LIFS1901 in Fall)
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>CENG</summary>
 
-<div markdown="1">
 - [BIEN1010](https://ust.space/review/BIEN1010) (Spring) \[3\] > CENG1600 (Fall) \[3\] > CENG1700 (Fall) \[3\]
 - [CENG1500](https://ust.space/review/CENG1500) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>CEEV</summary>
 
-<div markdown="1">
 - [CENG1700](https://ust.space/review/CENG1700) (Fall) \[3\]
 - [CENG1500](https://ust.space/review/CENG1500) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>SUSEE</summary>
 
-<div markdown="1">
 - [MECH1902](https://ust.space/review/MECH1902) (Fall) \[3\] > [CENG1700](https://ust.space/review/CENG1700) (Fall) \[3\] = [SUST1000](https://ust.space/review/SUST1000) \[3\]
 - ENEG3110 (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>CIVL/CIEV</summary>
 
-<div markdown="1">
 - [CIVL1100](https://ust.space/review/CIVL1100) \[3\]
 - [CIVL2110](https://ust.space/review/CIVL2110) (Spring) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>COMP/CPEG/DSCT</summary>
 
-<div markdown="1">
 Remark: You can access COMP course pages with https://course.cse.ust.hk/\[insert_course_code\] **even if you're not enrolled in it**
 - [COMP2011](https://ust.space/review/COMP2011) (Spring unless COMP1021/COMP1022P transferred) \[4\]
     - Remark: Recommend to take COMP1029C (P/F) in Winter or Backup all data from COMP2011 Course Site to familiarise yourself with C++ Syntax
@@ -139,37 +125,31 @@ Remark: You can access COMP course pages with https://course.cse.ust.hk/\[insert
     - [COMP2711](https://ust.space/review/COMP2711) \[4\]
     - [COMP2711H](https://ust.space/review/COMP2711H) \[4\] if you can meet the prerequisite
     - Remark: WIP
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>CPEG/ELEC</summary>
 
-<div markdown="1">
 - [ELEC1100](https://ust.space/review/ELEC1100) \[4\]
 - [ELEC1200](https://ust.space/review/ELEC1200) (Spring) for ELEC only \[4\]
 - one of
     - [PHYS1114](https://ust.space/review/PHYS1114) \[3\]
     - [PHYS1314](https://ust.space/review/PHYS1314) \[3\] (if and only if you are a PHYS god)
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>DA/IEEM</summary>
 
-<div markdown="1">
 - one of
     - [ECON2103](https://ust.space/review/ECON2103) \[3\] (if HKDSE Economics < 3)
     - [ECON2113](https://ust.space/review/ECON2113) \[3\] (if HKDSE Economics >= 3)
 - [IEDA3230](https://ust.space/review/IEDA3230) (Spring) \[3\]
 - [IEDA3300](https://ust.space/review/IEDA3300) (if available, Spring) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>ISDN</summary>
 
-<div markdown="1">
 Remark: don't expect good grades in ISDN, and grades won't matter for getting into it since the major is _project-based_
 - [ISDN1001](https://ust.space/review/ISDN1001) (Fall) \[3\]
 - [ISDN1002](https://ust.space/review/ISDN1002) (Fall) \[3\]
@@ -178,13 +158,11 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ISDN2601](https://ust.space/review/ISDN2601) (Fall) \[3\]
 - [ISDN2602](https://ust.space/review/ISDN2602) (when available) \[3\]
 - [ISDN2603](https://ust.space/review/ISDN2603) (Fall) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>AE/MECH</summary>
 
-<div markdown="1">
 - one of
     - [CHEM1008](https://ust.space/review/CHEM1008) \[3\]
     - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
@@ -192,24 +170,20 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
     - [PHYS1101](https://ust.space/review/PHYS1101) \[4\]
 - [MECH1907](https://ust.space/review/MECH1907) (Fall) \[3\]
 - [MECH2410](https://ust.space/review/MECH2410) (Spring) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>EVMT</summary>
 
-<div markdown="1">
 - [ENVR1170](https://ust.space/review/ENVR1170) (Spring) \[3\]
 - [ENVR2010](https://ust.space/review/ENVR2010) (Fall) \[3\]
 - [ENVR3310](https://ust.space/review/ENVR3310) (Spring) \[3\]
 - [ENVR3420](https://ust.space/review/ENVR3420) (Fall) \[3\]
-</div>
 </details>
 
-<details>
+<details markdown="1">
 <summary>RMBI</summary>
 
-<div markdown="1">
 - [ACCT2010](https://ust.space/review/ACCT2010) \[3\]
 - one of
     - [ECON2103](https://ust.space/review/ECON2103) \[3\] (if HKDSE Economics < 3)
@@ -220,7 +194,6 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ISOM2700](https://ust.space/review/ISOM2700) \[3\]
 - [MGMT2010](https://ust.space/review/MGMT2010) \[2\]
 - [MGMT2130](https://ust.space/review/MGMT2130) \[2\]
-</div>
 </details>
 
 ### Additional

@@ -3,12 +3,19 @@ layout: post
 title: Places
 ---
 
-List of places (alphabetical order):
+List of places:
 
-0. [Hong Kong University of Science and Tecnology](../places/chapter0/HKUST_content.md)
+Relevant areas outside the University
+- [Choi Hung](off_campus/Choi_Hung.md)
+- [Hang Hau](off_campus/Hang_Hau.md)
+- [Pak Shui Wun](off_campus/Pak_Shui_Wun.md)
+- [Po Lam](off_campus/Po_Lam.md)
+- [Sai Kung]()
+- [Tai Po Tsai Village](off_campus/Tai_Po_Tsai_Village.md)
+- [Tiu Keng Leng/ Tseung Kwan O](off_campus/Tseung_Kwan_O.md)
+[Hong Kong University of Science and Tecnology](../places/chapter0/HKUST_content.md)
    - [North Gate](../places/chapter0/North_Gate.md)
    - [South Gate](../places/chapter0/South_Gate.md)
-1. **On campus**
    - **Areas and Facilities**
       - [Academic Concourse](on_campus/Academic_Concourse.md)
       - [Atrium](on_campus/Atrium.md)
@@ -55,7 +62,7 @@ List of places (alphabetical order):
       - [Seafront Cafeteria]()
       - [Subway]()
       - [Starbucks]()
-      - [TT Vegie]()
+      - [TT Veggie]()
       - [Uni Bistro]()
       - [UniQue]()
    - **Retail**
@@ -67,11 +74,3 @@ List of places (alphabetical order):
       - [Fusion Supermarket]()
       - [Salon]()
       - [Souvenir Shop]()
-2. **Off campus**
-   - [Choi Hung](off_campus/Choi_Hung.md)
-   - [Hang Hau](off_campus/Hang_Hau.md)
-   - [Pak Shui Wun](off_campus/Pak_Shui_Wun.md)
-   - [Po Lam]()
-   - [Sai Kung]()
-   - [Tai Po Tsai Village](off_campus/Tai_Po_Tsai_Village.md)
-   - [Tiu Keng Leng/ Tseung Kwan O](off_campus/Tiu_Keng_Leng/Tseung_Kwan_O.md)

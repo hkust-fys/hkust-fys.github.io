@@ -8,3 +8,5 @@ A very nice beach next to [HKUST]()'s [Seafront](). The beach is semi-managed by
 It can be accessed through the staircase in [North Gate](../chapter0/North_Gate.md) next to the station of minibus route [12]().
 
 You may also see a 30m tall waterfall, especially during wet season on the trail to Pak Shui Wun.
+
+![View of HKUST from the beach](/media/pak_shui_wun.png)

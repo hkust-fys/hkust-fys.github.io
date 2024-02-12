@@ -3,17 +3,17 @@ layout: home
 title: Home
 ---
 
-[rules for editors]: ../_meta/index.md
+[meta]: ../_meta/index.md
 
 Welcome to the homepage!
 
 We aim to provide a platform for all USTers to know about anything about UST, especially the program pathways, courses, instructors, activities provided, societies and maybe even sources, gossips, etc. This platform is editable for everyone, but we, ***HKUST FYS DISCORD*** members are going to be the pioneers. If you are reading this, feel free to complete this enormous jigsaw puzzle with us!
 
-First, for **Editors**, please first read the [rules for editors]. If you are unfamiliar with editing in GitHub, you may want to visit our [editing guide]() as well.
+First, for **Editors**, please first read [meta]. If you are unfamiliar with editing in GitHub, you may want to visit our [editing guide]() as well.
 
 > [!IMPORTANT]
 >
-> Please read the [rules for editors] before editing!
+> Please read [meta] before editing!
 
 Second, for **Readers**, here's the table of contents:
 
