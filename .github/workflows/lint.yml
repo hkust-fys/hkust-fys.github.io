@@ -1,0 +1,12 @@
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DavidAnson/markdownlint-cli2-action@v15
+        with:
+          globs: '**/*.md'
+on:
+  pull_request_target:
+  push:
+  workflow_dispatch:
+permissions: {}
