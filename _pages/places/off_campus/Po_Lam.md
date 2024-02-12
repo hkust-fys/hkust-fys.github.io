@@ -8,8 +8,23 @@ Po Lam is served by the MTR at [Po Lam Station](https://en.wikipedia.org/wiki/Po
 ## 🚉 MTR
 
 - [Po Lam Station](https://en.wikipedia.org/wiki/Po_Lam_station)
-    - Tseung Kwan O Line
+
+  - Tseung Kwan O Line
 
 ## 🚌 Bus
-- 91M ([Choi Hung](Choi_Hung.md) direction)
-    - 
+
+- 91M (Diamond Hill Station direction)
+
+  - Po Lam Bus Terminus -> HKUST (South)
+
+## 🚐 Minibus
+
+- [12](https://www.16seats.net/eng/gmb/gn_12.html): Sai Kung Pier direction
+
+  - Po Lam Station -> HKUST (North)
+
+- [11S](https://www.16seats.net/eng/gmb/gn_11s.html)*: Choi Hung Station direction
+
+  - Po Lam Station -> HKUST (South)
+
+*\* Special route*
