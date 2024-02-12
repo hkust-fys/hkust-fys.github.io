@@ -15,7 +15,7 @@ First, for **Editors**, please first read the [rules for editors]. If you are un
 
 Second, for **Readers**, here's the table of contents:
 1. __[Vocabulary]()__
-   1. [Places](places/places_list)
+   1. [Places](../_pages/places/places_list.md)
    2. [Events]()
    3. [People]()
    4. [Society]()
