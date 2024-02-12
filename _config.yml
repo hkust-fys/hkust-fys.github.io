@@ -11,6 +11,9 @@ collections:
 longtitle: HKUST FYS
 plugins:
   - jekyll-relative-links
+relative_links:
+  collections: true
+  enabled: true
 remote_theme: sighingnow/jekyll-gitbook
 title: HKUST FYS
 toc:
