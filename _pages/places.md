@@ -17,7 +17,7 @@ The northern entrance of HKUST. You are dropped off here if you came from Choi H
 ## Hang Hau
 Where another [MTR station](https://en.wikipedia.org/wiki/Hang_Hau_station) is located at. You can get on bus route 91M ("Diamond Hill" direction) or minibus route 11 ("Choi Hung" direction) or 11M (HKUST direction) towards HKUST.
 There is also a special bus route 91B which goes directly to HKSUT every school day at 8:30 am.
-## Tiu Keng Leng/ Tseung Kwan O
+## Tiu Keng Leng / Tseung Kwan O
 Both [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) and [Tsueng Kwan O](https://en.wikipedia.org/wiki/Tseung_Kwan_O_station) have MTR stations. You can take bus route 792M towards HKUST here, but there are fewer buses than Hang Hau.
 ## South Gate / South Bus Stop
 The southern entrance of HKUST. You are dropped off here if you came from Hang Hau via bus route 91M, or minibus route 11 or 11M.
