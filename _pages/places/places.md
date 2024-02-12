@@ -8,7 +8,7 @@ title: Places
 [A university](https://hkust.edu.hk/) with the address "Clear Water Bay, Kowloon, Hong Kong". It was [forced into Kowloon](https://zh.wikipedia.org/zh-hk/%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8#cite_note-%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%E5%9C%B0%E5%9D%80%E5%AF%AB%E6%B3%95-2) even though it is geographically in the New Territories because "Clear Water Bay" sounds nicer than "Tai Po Tsai".
 <br>
 <div align="center">
-<img src="on_campus/map_HKUST.png" alt="HKUST_map" width=50%>
+<img src="/media/map_HKUST.png" alt="HKUST_map" width=50%>
 </div>
 <br> ([Base image from Wikipedia](https://en.wikipedia.org/wiki/Kowloon_Peninsula#/media/File:Hong_Kong_Kowloon.svg))
 
@@ -17,7 +17,7 @@ title: Places
 The village next to HKUST where you might get cheap housing from.
 <br>
 <div align="center">
-<img src="off_campus/map_Tai_Po_Tsai_Village.png" alt="TPTV_map" width=50%>
+<img src="/media/map_Tai_Po_Tsai_Village.png" alt="TPTV_map" width=50%>
 </div>
 <br> (Copyright Google Maps)
 
