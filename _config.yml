@@ -1,10 +1,10 @@
 collections:
+  home:
+    output: true
+    permalink: /:path
   meta:
     output: true
     permalink: /:collection/:path
-  home:
-    output: true
-    permalink: /
   pages:
     output: true
     permalink: /:path
