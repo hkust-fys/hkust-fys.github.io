@@ -1,13 +1,13 @@
 collections:
   meta:
     output: true
-    permalink: /:collection/:path.md
+    permalink: /:collection/:path
   home:
     output: true
     permalink: /
   pages:
     output: true
-    permalink: /:path.md
+    permalink: /:path
 remote_theme: sighingnow/jekyll-gitbook
 title: HKUST FYS
 longtitle: HKUST FYS
