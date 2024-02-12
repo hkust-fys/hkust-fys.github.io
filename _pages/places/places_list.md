@@ -13,6 +13,7 @@ Relevant areas outside the University
 - [Sai Kung]()
 - [Tai Po Tsai Village](off_campus/Tai_Po_Tsai_Village.md)
 - [Tiu Keng Leng/ Tseung Kwan O](off_campus/Tseung_Kwan_O.md)
+
 [Hong Kong University of Science and Tecnology](../places/chapter0/HKUST_content.md)
    - [North Gate](../places/chapter0/North_Gate.md)
    - [South Gate](../places/chapter0/South_Gate.md)
