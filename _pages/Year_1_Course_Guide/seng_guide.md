@@ -48,24 +48,24 @@ Pick another from (in order of USTSpace ratings, from best to worst, [source](ht
   <tr>
     <th>Course Code</th> <th>Course Title</th> <th>Credits</th> <th>Grade Points (Best to Worst, 4.3 to 0.0)</th>
   </tr>
-  <tr> <td>COMP 1021</td> <td>Introduction to Computer Science</td> <td>3</td> <td>3.6</td> </tr>
-  <tr> <td>BIEN 1010</td> <td>Introduction to Biomedical Engineering</td> <td>3</td> <td>3.6</td> </tr>
-  <tr> <td>MECH 1907</td> <td>Introduction to Aerospace Engineering</td> <td>3</td> <td>3.5</td> </tr>
-  <tr> <td>IEDA 2010</td> <td>Introduction of Industrial Engineering and Decision Analytics</td> <td>3</td> <td>3.4</td> </tr>
-  <tr> <td>CIVL 1100</td> <td>Discovering Civil and Environmental Engineering</td> <td>3</td> <td>3.25</td> </tr>
-  <tr> <td>ELEC 1100</td> <td>Introduction to Electro-Robot Design</td> <td>4</td> <td>3.225</td> </tr>
-  <tr> <td>MECH 1902</td> <td>Energy Systems in a Sustainable World</td> <td>3</td> <td>3.225</td> </tr>
-  <tr> <td>CENG 1500</td> <td>A First Course in Materials Science and Applications</td> <td>3</td> <td>3.175</td> </tr>
-  <tr> <td>ELEC 1200</td> <td>A System View of Communications: from Signals to Packets</td> <td>4</td> <td>3.15</td> </tr>
-  <tr> <td>COMP 1022P</td> <td>Introduction to Computing with Java</td> <td>3</td> <td>3.075</td> </tr>
-  <tr> <td>CENG 1000</td> <td>Introduction to Chemical and Biological Engineering</td> <td>3</td> <td>2.9</td> </tr>
-  <tr> <td>CENG 1700</td> <td>Introduction to Environmental Engineering</td> <td>3</td> <td>2.75</td> </tr>
-  <tr> <td>ISDN 1002</td> <td>Redefining Problems for the Real Needs</td> <td>3</td> <td>2.7</td> </tr>
-  <tr> <td>ENGG 1100</td> <td>First Year Cornerstone Engineering Design Project Course</td> <td>3</td> <td>2.175</td> </tr>
-  <tr> <td>MECH 1906</td> <td>Mechanical Engineering for Modern Life</td> <td>3</td> <td>2.175</td> </tr>
-  <tr> <td>ISDN 1001</td> <td>Introduction to Integrative Systems and Design</td> <td>3</td> <td>2</td> </tr>
-  <tr> <td>ISDN 1006</td> <td>Human-Centered Innovation</td> <td>3</td> <td>1.5</td> </tr>
-  <tr> <td>CIVL 1210</td> <td>Fundamentals of Green Buildings</td> <td>3</td> <td>3</td> </tr>
+  <tr> <td>COMP1021</td> <td>Introduction to Computer Science</td> <td>3</td> <td>3.6</td> </tr>
+  <tr> <td>BIEN1010</td> <td>Introduction to Biomedical Engineering</td> <td>3</td> <td>3.6</td> </tr>
+  <tr> <td>MECH1907</td> <td>Introduction to Aerospace Engineering</td> <td>3</td> <td>3.5</td> </tr>
+  <tr> <td>IEDA2010</td> <td>Introduction of Industrial Engineering and Decision Analytics</td> <td>3</td> <td>3.4</td> </tr>
+  <tr> <td>CIVL1100</td> <td>Discovering Civil and Environmental Engineering</td> <td>3</td> <td>3.25</td> </tr>
+  <tr> <td>ELEC1100</td> <td>Introduction to Electro-Robot Design</td> <td>4</td> <td>3.225</td> </tr>
+  <tr> <td>MECH1902</td> <td>Energy Systems in a Sustainable World</td> <td>3</td> <td>3.225</td> </tr>
+  <tr> <td>CENG1500</td> <td>A First Course in Materials Science and Applications</td> <td>3</td> <td>3.175</td> </tr>
+  <tr> <td>ELEC1200</td> <td>A System View of Communications: from Signals to Packets</td> <td>4</td> <td>3.15</td> </tr>
+  <tr> <td>COMP1022P</td> <td>Introduction to Computing with Java</td> <td>3</td> <td>3.075</td> </tr>
+  <tr> <td>CENG1000</td> <td>Introduction to Chemical and Biological Engineering</td> <td>3</td> <td>2.9</td> </tr>
+  <tr> <td>CENG1700</td> <td>Introduction to Environmental Engineering</td> <td>3</td> <td>2.75</td> </tr>
+  <tr> <td>ISDN1002</td> <td>Redefining Problems for the Real Needs</td> <td>3</td> <td>2.7</td> </tr>
+  <tr> <td>ENGG1100</td> <td>First Year Cornerstone Engineering Design Project Course</td> <td>3</td> <td>2.175</td> </tr>
+  <tr> <td>MECH1906</td> <td>Mechanical Engineering for Modern Life</td> <td>3</td> <td>2.175</td> </tr>
+  <tr> <td>ISDN1001</td> <td>Introduction to Integrative Systems and Design</td> <td>3</td> <td>2</td> </tr>
+  <tr> <td>ISDN1006</td> <td>Human-Centered Innovation</td> <td>3</td> <td>1.5</td> </tr>
+  <tr> <td>CIVL1210</td> <td>Fundamentals of Green Buildings</td> <td>3</td> <td>3</td> </tr>
 </table>
 
 If you're not aiming for COMP/CPEG/DSCT/RMBI/EVMT, please choose your aimed major's introduction course first to not waste credits. Only plan major headstarts after picking your second engineering intro course!!!
