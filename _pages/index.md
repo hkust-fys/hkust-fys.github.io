@@ -1,8 +1,3 @@
----
-layout: home
-title: Home page
----
-
 Welcome to the homepage!
 
 We aim to provide a platform for all USTers to know about anything about UST, especially the program pathways, courses, instructors, activities provided, societies and maybe even sources, gossips, etc. This platform is editable for everyone, but we, ***HKUST FYS DISCORD*** members are going to be the pioneers. If you are reading this, feel free to complete this enormous jigsaw puzzle with us!
@@ -15,7 +10,7 @@ First, for **Editors**, please first read the [rules for editors]. If you are un
 
 Second, for **Readers**, here's the table of contents:
 1. __[Vocabulary]()__
-   1. [Places](places/places_list.md)
+   1. [Places](places/places_list)
    2. [Events]()
    3. [People]()
    4. [Society]()
