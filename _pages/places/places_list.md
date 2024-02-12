@@ -5,20 +5,20 @@ title: Places
 
 List of places (alphabetical order):
 
-0. [The Hong Kong University of Science and Tecnology](HKUST)
- - [North Gate](North_Gate.md)
- - [South Gate](South_Gate.md)
+0. [The Hong Kong University of Science and Tecnology](../places/chapter0/HKUST_content.md)
+ - [North Gate](../places/chapter0/North_Gate.md)
+ - [South Gate](../places/chapter0/South_Gate.md)
 
 1. **On campus**
   
    i.  __Areas and Facilities__
 
-   - [Academic Concourse](Academic_Concourse.md)
-   - [Atrium](Atrium.md)
-   - [CYT](CYT.md)
-   - [Library](Library.md)
-   - [Mushroom](Mushroom.md)
-   - [Redbird Sundial](Redbird_Sundial.md)
+   - [Academic Concourse](on_campus/Academic_Concourse.md)
+   - [Atrium](on_campus/Atrium.md)
+   - [CYT](on_campus/CYT.md)
+   - [Library](on_campus/Library.md)
+   - [Mushroom](on_campus/Mushroom.md)
+   - [Redbird Sundial](on_campus/Redbird_Sundial.md)
    
 
    ii. __Classrooms__
@@ -48,7 +48,7 @@ List of places (alphabetical order):
    v. __Offices__
  
    vi. __Restaurants__
-   - [American Diner](American_Diner.md)
+   - [American Diner](on_campus/restaurant/American_Dining.md)
    - [Asian Pacific]()
    - [Can.teen (LG1&LSK G/F)]()
    - [China Garden]()
@@ -78,10 +78,10 @@ List of places (alphabetical order):
    - [Salon]()
    - [Souvenir Shop]()
 2. **Off campus**
- - [Choi Hung](Choi_Hung.md)
- - [Hang Hau](Hang_Hau.md)
- - [Pak Shui Wun](Pak_Shui_Wun.md)
+ - [Choi Hung](off_campus/Choi_Hung.md)
+ - [Hang Hau](off_campus/Hang_Hau.md)
+ - [Pak Shui Wun](off_campus/Pak_Shui_Wun.md)
  - [Po Lam]()
  - [Sai Kung]()
- - [Tai Po Tsai Village](Tai_Po_Tsai_Village.md)
- - [Tiu Keng Leng/ Tseung Kwan O](Tseung_Kwan_O.md)
+ - [Tai Po Tsai Village](off_campus/Tai_Po_Tsai_Village.md)
+ - [Tiu Keng Leng/ Tseung Kwan O](off_campus/Tiu_Keng_Leng/Tseung_Kwan_O.md)
