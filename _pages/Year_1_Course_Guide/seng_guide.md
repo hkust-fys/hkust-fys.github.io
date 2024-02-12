@@ -3,8 +3,8 @@ layout: post
 title: Year 1 SENG Optimal Pathway
 ---
 
-Written by Happypig375
-Edited by nuclearc0w
+Written by Happypig375 \
+Edited by nuclearc0w\
 Disclaimer: not for IIM (IIM plan on their own)  
 
 ### 16-18 credit Fall:
@@ -201,9 +201,9 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 
 ### Additional
 
-If available: 3-4 credit transferred in Summer
-Statistics (from Korea University through APRU Virtual Exchange) credit transferring to one of:
-CIVL2160 \[3\] for CIVL/CIEV
-IEDA2540 \[3\] for DA/IEEM
-ISOM2500 \[3\] for RMBI
-MATH2411 \[4\] otherwise
+If available: 3-4 credit transferred in Summer \
+Statistics (from Korea University through APRU Virtual Exchange) credit transferring to one of: \
+    - CIVL2160 \[3\] for CIVL/CIEV \
+    - IEDA2540 \[3\] for DA/IEEM \
+    - ISOM2500 \[3\] for RMBI \
+    - MATH2411 \[4\] otherwise
