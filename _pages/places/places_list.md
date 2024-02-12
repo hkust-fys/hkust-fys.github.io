@@ -8,28 +8,29 @@ List of places (alphabetical order):
 0. [The Hong Kong University of Science and Tecnology](HKUST)
  - [North Gate](North_Gate.md)
  - [South Gate](South_Gate.md)
+
 1. **On campus**
   
    i.  __Areas and Facilities__
 
-      - [Academic Concourse](Academic_Concourse.md)
-      - [Atrium](Atrium.md)
-      - [CYT](CYT.md)
-      - [Library](Library.md)
-      - [Mushroom](Mushroom.md)
-      - [Redbird Sundial](Redbird_Sundial.md)
+   - [Academic Concourse](Academic_Concourse.md)
+   - [Atrium](Atrium.md)
+   - [CYT](CYT.md)
+   - [Library](Library.md)
+   - [Mushroom](Mushroom.md)
+   - [Redbird Sundial](Redbird_Sundial.md)
    
 
    ii. __Classrooms__
 
    iii. __Common Rooms and Study Areas__
    - [CYT](CYT.md) 
-   - [Sbm study Area]()
-   - [Sci-home]()
+   - [SBM Study Area]()
+   - [Sci-Home]()
       - [OCES department and LIFS department]()
-      - [Phys department]()
-   - [Seng Common]()
-      - [CIVIL department]()
+      - [PHYS department]()
+   - [SENG Commons]()
+      - [CIVL department]()
  
    iv. __Lecture Theatres__
    - [LT-A]()
@@ -47,7 +48,7 @@ List of places (alphabetical order):
    v. __Offices__
  
    vi. __Restaurants__
-   - [American Dinning](American_Dining.md)
+   - [American Diner](American_Diner.md)
    - [Asian Pacific]()
    - [Can.teen (LG1&LSK G/F)]()
    - [China Garden]()
