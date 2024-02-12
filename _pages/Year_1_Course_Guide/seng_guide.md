@@ -2,48 +2,52 @@
 layout: post
 title: Year 1 SENG Optimal Pathway
 ---
+
 Written by Happypig375
-Edited by nuclearc0w 
+Edited by nuclearc0w
 Disclaimer: not for IIM (IIM plan on their own)  
 
 ### 16-18 credit Fall:
+
 - HMAW1905B \[1\]
 - One of
-    - MATH1012 \[4\] if HKDSE M2 < 3
-    - MATH1013 \[3\] if HKDSE M2 >= 3
-    - MATH1023 \[3\] if and only if you love proofs or aiming for MATH double major
-    - can do MATH1003 \[3\] if you only aim for EVMT
+  - MATH1012 \[4\] if HKDSE M2 < 3
+  - MATH1013 \[3\] if HKDSE M2 >= 3
+  - MATH1023 \[3\] if and only if you love proofs or aiming for MATH double major
+  - can do MATH1003 \[3\] if you only aim for EVMT
 - One of (E-Comm)
-    - WIP: To be revamp in 2024-25
+  - WIP: To be revamp in 2024-25
 - One of (NOT for DSCT/RMBI/EVMT)
-    - PHYS1112 \[3\] safe choice — can act as a required course for all majors
-    - PHYS1312 \[3\] if and only if you are a PHYS god
-    - another Science Intro course in the same "OR" group for your aimed major \[3\]
+  - PHYS1112 \[3\] safe choice — can act as a required course for all majors
+  - PHYS1312 \[3\] if and only if you are a PHYS god
+  - another Science Intro course in the same "OR" group for your aimed major \[3\]
 - COMP1021 \[3\] (required for all majors and counts as Engineering Intro)
 - Engineering Intro or Major Headstart \[3-4\]
 
 ### 17-20 credit Spring:
+
 - HMAW1905B \[2\]
 - One of (NOT for EVMT)
-    - MATH1014 \[3\]
-    - MATH1024 \[3\] if and only if you love proofs or aiming for MATH double major
+  - MATH1014 \[3\]
+  - MATH1024 \[3\] if and only if you love proofs or aiming for MATH double major
 - One of
-    - LANG1403 \[3\] if you did LANG1402 in Fall
-    - LANG2030H \[3\] if you did LANG1404 in Fall or obtained A+ in LANG1403 (NOT for RMBI/EVMT)
-        - Remark: not recommended if you hate LANG courses or CLE
-    - Another Engineering Intro or Major Headstart or Common Core for LANG1403 non-A+ \[3-4\]
+  - LANG1403 \[3\] if you did LANG1402 in Fall
+  - LANG2030H \[3\] if you did LANG1404 in Fall or obtained A+ in LANG1403 (NOT for RMBI/EVMT)
+    - Remark: not recommended if you hate LANG courses or CLE
+  - Another Engineering Intro or Major Headstart or Common Core for LANG1403 non-A+ \[3-4\]
 - Engineering intro or major headstart \[3-4\]
 - Non-LANG good grade Common Core that you are motivated to study or Major Headstart \[3-4\]
 - Non-LANG good grade Common Core that you are motivated to study or Major Headstart \[3-4\]
   
-
 ### IMPORTANT
+
 For best-24 credits in Major Selection Exercise, you must have at least 2 engineering intro courses or else F grade(s) will be counted. One of them is COMP1021.  
 Pick another from (in order of USTSpace ratings, [source](https://hkustconnect-my.sharepoint.com/:x:/g/personal/yhchowai_connect_ust_hk/EZnw7RyVRNNJksiyekxhmBcBjH6Sp_usdKIyvmLyuPetZg?e=lajVoi)):  
 BIEN1010 (Spring) \[3\] > MECH1907 (Fall) \[3\] > IEDA2010 \[3\] > CIVL1100 \[3\] > ELEC1100 \[4\] > MECH1902 (Fall) \[3\] > CENG1500 (Spring) \[3\] > ELEC1200 \[4\] > CENG1000 (Fall) \[3\] > CENG1700 (Fall) \[3\] > ISDN1002 (Fall) \[3\] > ENGG1100 \[3\] > MECH1906 (Fall) \[3\] > ISDN1001 (Fall) \[3\] > ISDN1006 (Spring) \[3\], or the new course CIVL1210 \[3\].
 If you're not aiming for COMP/CPEG/DSCT/RMBI/EVMT, please choose your aimed major's introduction course first to not waste credits. Only plan major headstarts after picking your second engineering intro course!!!
- 
-### Major headstart list 
+
+### Major headstart list
+
 For the latest information, refer to [major requirements](https://prog-crs.hkust.edu.hk/ugprog) and [USTSpace](https://ust.space/) (remember to sort by _Semester_ or _Post Date_)  
 <details>
 <summary>BIEN</summary>
@@ -120,7 +124,7 @@ Remark: You can access COMP course pages with https://course.cse.ust.hk/\[insert
 <div markdown="1">
 - [ELEC1100](https://ust.space/review/ELEC1100) \[4\]
 - [ELEC1200](https://ust.space/review/ELEC1200) (Spring) for ELEC only \[4\]
-- one of 
+- one of
     - [PHYS1114](https://ust.space/review/PHYS1114) \[3\]
     - [PHYS1314](https://ust.space/review/PHYS1314) \[3\] (if and only if you are a PHYS god)
 </div>
@@ -196,6 +200,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 </details>
 
 ### Additional
+
 If available: 3-4 credit transferred in Summer
 Statistics (from Korea University through APRU Virtual Exchange) credit transferring to one of:
 CIVL2160 \[3\] for CIVL/CIEV

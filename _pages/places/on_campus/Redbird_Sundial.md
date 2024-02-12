@@ -1,4 +1,7 @@
-## Redbird Sundial (火雞）
+---
+layout: post
+title: Redbird Sundial （火雞）
+---
 
 The icon of HKUST. It is located in [Piazza](). A sculpture that can work as a sundial. You can only see what time it is by going up the floor and look through the windows in offices during sunny days.
 
@@ -6,4 +9,4 @@ According to [HKUST's official site]<https://hkust.edu.hk/visit/campus-highlight
 
 Visitors are allowed to stand on the stand to take pictures, but is prohibited to climb onto the sculpture, although many students and graduates may attempt to do so.
 
-[1] https://hkust.edu.hk/visit/campus-highlights
+[1] <https://hkust.edu.hk/visit/campus-highlights>

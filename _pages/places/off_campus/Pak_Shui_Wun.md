@@ -1,6 +1,9 @@
-## Pak Shui Wun (白水碗)
+---
+layout: post
+title: Pak Shui Wun (白水碗)
+---
 
-A very nice beach next to [HKUST]()'s [Seafront](). The beach is semi-managed by an organic farm, 綠田園. Sometimes they hold events like wedding, school visitings, kayaking, etc. They offer shipping service for their visitors as well. 
+A very nice beach next to [HKUST]()'s [Seafront](). The beach is semi-managed by an organic farm, 綠田園. Sometimes they hold events like wedding, school visitings, kayaking, etc. They offer shipping service for their visitors as well.
 
 It can be accessed through the staircase in [North Gate](../chapter0/North_Gate.md) next to the station of minibus route [12]().
 
