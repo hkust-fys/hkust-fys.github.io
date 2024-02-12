@@ -24,13 +24,11 @@ There is also a special bus route 91B which goes directly to HKUST every school 
 |||||
 
 ## 🚐 Minibus
-|||||
-| :--- | :--- | :--- | :--- |
 | Route | Direction | Get on at | Get off at |
+| :--- | :--- | :--- | :--- |
 | [11M](https://www.16seats.net/eng/gmb/gn_11m.html) | HKUST (North) | Hang Hau Station | HKUST (North) |
 | [11](https://www.16seats.net/eng/gmb/gn_11.html) | Choi Hung Station | Hang Hau Station | HKUST (South)
 | [11S](https://www.16seats.net/eng/gmb/gn_11s.html)\* | Choi Hung Station | Hang Hau Station | HKUST (South) |
-|||||
 
 *\* Overnight route*<br>
 *^ Peak hour route: departs at 08:30*
