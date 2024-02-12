@@ -2,7 +2,6 @@
 layout: post
 title: Year 1 SENG Optimal Pathway
 ---
-# Year 1 SENG Optimal Pathway
 Written by Happypig375
 Edited by nuclearc0w 
 Disclaimer: not for IIM (IIM plan on their own)  
