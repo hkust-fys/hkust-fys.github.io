@@ -1,4 +1,4 @@
-collections:
+collections: # Order of the table of contents on the left
   home:
     output: true
     permalink: /:path
@@ -10,8 +10,8 @@ collections:
     permalink: /:path
 longtitle: HKUST FYS
 plugins:
-  - jekyll-relative-links
-relative_links:
+  - jekyll-relative-links # Deletes .md relative paths when publishing
+relative_links: # Settings of jekyll-relative-links
   collections: true
   enabled: true
 remote_theme: sighingnow/jekyll-gitbook

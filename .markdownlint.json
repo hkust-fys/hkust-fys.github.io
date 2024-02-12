@@ -3,5 +3,7 @@
   "MD013": false,
   "MD026": false,
   "MD033": false,
+  "MD042": false,
+  "remove MD042 when we are ready, empty links are temporary": true,
   "extends": null
 }
