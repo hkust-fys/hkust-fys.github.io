@@ -73,10 +73,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 
 <link rel="stylesheet" href="seng_guide.css">
 
-- [ ] checkbox support?
-
-<details markdown="1">
-<summary>BIEN</summary>
+<label class="collapsible"><input type="checkbox">BIEN</label>
 
 - [BIEN1010](https://ust.space/review/BIEN1010) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\] + CHEM1050 \[1\]
@@ -84,48 +81,33 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [BIEN2410](https://ust.space/review/BIEN2410) (Spring) \[3\] (if DSE Biology >= 3 or LIFS1901 in Fall)
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>CENG</summary>
+<label class="collapsible"><input type="checkbox">CENG</label>
 
 - [BIEN1010](https://ust.space/review/BIEN1010) (Spring) \[3\] > CENG1600 (Fall) \[3\] > CENG1700 (Fall) \[3\]
 - [CENG1500](https://ust.space/review/CENG1500) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>CEEV</summary>
+<label class="collapsible"><input type="checkbox">CEEV</label>
 
 - [CENG1700](https://ust.space/review/CENG1700) (Fall) \[3\]
 - [CENG1500](https://ust.space/review/CENG1500) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>SUSEE</summary>
+<label class="collapsible"><input type="checkbox">SUSEE</label>
 
 - [MECH1902](https://ust.space/review/MECH1902) (Fall) \[3\] > [CENG1700](https://ust.space/review/CENG1700) (Fall) \[3\] = [SUST1000](https://ust.space/review/SUST1000) \[3\]
 - ENEG3110 (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>CIVL/CIEV</summary>
+<label class="collapsible"><input type="checkbox">CIVL/CIEV</label>
 
 - [CIVL1100](https://ust.space/review/CIVL1100) \[3\]
 - [CIVL2110](https://ust.space/review/CIVL2110) (Spring) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>COMP/CPEG/DSCT</summary>
+<label class="collapsible"><input type="checkbox">COMP/CPEG/DSCT</label>
 
 Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[insert_course_code\>] **even if you're not enrolled in it**
 
@@ -137,10 +119,7 @@ Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[inser
   - [COMP2711H](https://ust.space/review/COMP2711H) \[4\] if you can meet the prerequisite
   - Remark: WIP
 
-</details>
-
-<details markdown="1">
-<summary>CPEG/ELEC</summary>
+<label class="collapsible"><input type="checkbox">CPEG/ELEC</label>
 
 - [ELEC1100](https://ust.space/review/ELEC1100) \[4\]
 - [ELEC1200](https://ust.space/review/ELEC1200) (Spring) for ELEC only \[4\]
@@ -148,10 +127,7 @@ Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[inser
   - [PHYS1114](https://ust.space/review/PHYS1114) \[3\]
   - [PHYS1314](https://ust.space/review/PHYS1314) \[3\] (if and only if you are a PHYS god)
 
-</details>
-
-<details markdown="1">
-<summary>DA/IEEM</summary>
+<label class="collapsible"><input type="checkbox">DA/IEEM</label>
 
 - one of
   - [ECON2103](https://ust.space/review/ECON2103) \[3\] (if HKDSE Economics < 3)
@@ -159,10 +135,7 @@ Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[inser
 - [IEDA3230](https://ust.space/review/IEDA3230) (Spring) \[3\]
 - [IEDA3300](https://ust.space/review/IEDA3300) (if available, Spring) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>ISDN</summary>
+<label class="collapsible"><input type="checkbox">ISDN</label>
 
 Remark: don't expect good grades in ISDN, and grades won't matter for getting into it since the major is _project-based_
 
@@ -174,10 +147,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ISDN2602](https://ust.space/review/ISDN2602) (when available) \[3\]
 - [ISDN2603](https://ust.space/review/ISDN2603) (Fall) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>AE/MECH</summary>
+<label class="collapsible"><input type="checkbox">AE/MECH</label>
 
 - one of
   - [CHEM1008](https://ust.space/review/CHEM1008) \[3\]
@@ -187,20 +157,14 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [MECH1907](https://ust.space/review/MECH1907) (Fall) \[3\]
 - [MECH2410](https://ust.space/review/MECH2410) (Spring) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>EVMT</summary>
+<label class="collapsible"><input type="checkbox">EVMT</label>
 
 - [ENVR1170](https://ust.space/review/ENVR1170) (Spring) \[3\]
 - [ENVR2010](https://ust.space/review/ENVR2010) (Fall) \[3\]
 - [ENVR3310](https://ust.space/review/ENVR3310) (Spring) \[3\]
 - [ENVR3420](https://ust.space/review/ENVR3420) (Fall) \[3\]
 
-</details>
-
-<details markdown="1">
-<summary>RMBI</summary>
+<label class="collapsible"><input type="checkbox">RMBI</label>
 
 - [ACCT2010](https://ust.space/review/ACCT2010) \[3\]
 - one of
@@ -212,8 +176,6 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ISOM2700](https://ust.space/review/ISOM2700) \[3\]
 - [MGMT2010](https://ust.space/review/MGMT2010) \[2\]
 - [MGMT2130](https://ust.space/review/MGMT2130) \[2\]
-
-</details>
 
 ### Additional
 

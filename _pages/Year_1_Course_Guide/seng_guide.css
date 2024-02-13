@@ -1,5 +1,5 @@
-/* Triangle */
-label:before {
+/* Triangle inserted before each <label> */
+.collapsible :before {
     content: " ";
     border-width: 6px;
     border-style: solid;
@@ -10,39 +10,35 @@ label:before {
     left: 18px;
     transition: transform 0.5s;
     transform-origin: 2px center;
-  }
+}
   
-  label {
+.collapsible {
     background-color: aquamarine;
     display: flex;
     align-items: center;
     cursor: pointer;
     padding: 5px 0px 5px 20px;
     border-radius: 8px;
-  }
+}
   
-  .section div {
+.collapsible ~ ul {
     padding: 10px;
     height: 0;
     overflow: hidden;
     opacity: 0;
-  }
+}
   
-  input {
+.collapsible > input {
     display: none;
-  }
-  
-  input:checked ~ label:before {
+}
+
+.collapsible :has(input:checked) :before {
     transform: rotate(90deg);
-  }
-  
-  input:checked ~ div {
+}
+
+.collapsible :has(input:checked) ~ ul {
     padding: 10px;
     opacity: 1;
     height: auto;
-  }
-  
-  /* Second level list */
-  .square {
     list-style-type: square;
-  }
+}
