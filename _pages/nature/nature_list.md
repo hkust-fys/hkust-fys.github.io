@@ -7,21 +7,21 @@ List of nature:
 
 1. Weather and climate
    - Spring
-   - summer
+   - Summer
    - Autumn
    - Winter
-   - [Night](Night) 
+   - [Night](Night)
 2. Flora
    - Seaweed
    - Bauhinia
-   - 
 3. Fauna
    1. Invertebrate
-     - Spider
-     - Sea Cucumber
-     - Sea Star
+      - Spider
+      - Sea Cucumber
+      - Sea Star
    2. Vertebrate
-     - therapy dogs
-     - stray cats
-     - Kingfisher
-     - Crow
+      - therapy dogs
+      - stray cats
+      - Kingfisher
+      - Crow
+   
