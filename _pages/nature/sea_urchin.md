@@ -1,6 +1,6 @@
 ---
 layout: post
-title: seaweed
+title: urchin
 ---
 ## Sea Urchin
 Nothing so special, just typical sea urchins. Probably the [purple sea urchin](https://en.wikipedia.org/wiki/Strongylocentrotus_purpuratus) but I can't tell.
