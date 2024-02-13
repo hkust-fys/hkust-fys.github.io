@@ -12,27 +12,9 @@ summary:before {
 }
 
 summary {
-    display: flex;
-    align-items: center;
-    padding: 5px 0px 5px 20px;
-    border-radius: 8px;
     cursor: pointer;
-}
-
-details > :not(summary) {
-    margin: 0px;
-    padding: 0px;
-    opacity: 0;
-    height: 0;
-    overflow: hidden;
 }
 
 details[open] summary:before {
     transform: rotate(90deg);
-}
-
-details[open] > :not(summary) {
-    padding: 10px;
-    opacity: 1;
-    height: auto;
 }
