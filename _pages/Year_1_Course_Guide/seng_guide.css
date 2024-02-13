@@ -22,11 +22,6 @@
     cursor: pointer;
 }
 
-/* For each <label> that is child of class=".collapsible", select all descendants */
-.collapsible > :first-child label * {
-    cursor: pointer;
-}
-
 /* For all children after <label> for class=".collapsible" */
 .collapsible > :not(:first-child) {
     padding: 10px;
