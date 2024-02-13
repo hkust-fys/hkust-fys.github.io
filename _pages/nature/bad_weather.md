@@ -3,6 +3,7 @@ layout: post
 title: bad_weather 
 ---
 ## Bad weather
+![bbc](/media/bbc.jpg)
 Including heavy rain, typhoon, extreme cold, etc...
 
 Learn more about in [HK Observatory's website](https://www.hko.gov.hk/en/education/educational_resources_main.html).

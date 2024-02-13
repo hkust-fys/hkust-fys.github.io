@@ -13,7 +13,7 @@ List of nature:
    - [Bad weather](bad_weather.md)
    - [Night](Night.md)
 2. Flora
-   - [Seaweed]()
+   - [Seaweed](seaweed.md)
    - Bauhinia
 3. Fauna
    1. Invertebrate
