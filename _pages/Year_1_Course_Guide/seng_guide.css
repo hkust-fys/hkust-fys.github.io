@@ -21,7 +21,7 @@
     border-radius: 8px;
 }
   
-.collapsible > :not(:first-child) {
+.collapsible > :not(label) {
     padding: 10px;
     height: 0;
     overflow: hidden;
@@ -36,7 +36,7 @@
     transform: rotate(90deg);
 }
 
-.collapsible:has(input:checked) > :not(:first-child) {
+.collapsible:has(input:checked) > :not(label) {
     padding: 10px;
     opacity: 1;
     height: auto;
