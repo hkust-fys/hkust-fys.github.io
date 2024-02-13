@@ -1,3 +1,7 @@
+---
+layout: post
+title: Gold Rice Bowl
+---
 
 # Gold Rice Bowl(GRB)
 
