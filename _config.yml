@@ -11,6 +11,7 @@ collections: # Order of the table of contents on the left
 longtitle: HKUST FYS
 plugins:
   - jekyll-relative-links # Deletes .md relative paths when publishing
+  - jekyll-remote-theme
 relative_links: # Settings of jekyll-relative-links
   collections: true
   enabled: true
