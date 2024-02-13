@@ -1,5 +1,5 @@
 /* Triangle inserted before each <label> */
-.collapsible :before {
+.collapsible:before {
     content: " ";
     border-width: 6px;
     border-style: solid;
@@ -32,11 +32,11 @@
     display: none;
 }
 
-.collapsible :has(input:checked) :before {
+.collapsible:has(input:checked):before {
     transform: rotate(90deg);
 }
 
-.collapsible :has(input:checked) ~ ul {
+.collapsible:has(input:checked) ~ ul {
     padding: 10px;
     opacity: 1;
     height: auto;
