@@ -1,5 +1,5 @@
 /* Triangle inserted before each <label> that is child of class=".collapsible" (:first-child here because auto-wrapping of <p>) */
-.collapsible > :first-child:before {
+.collapsible > :first-child label:before {
     content: " ";
     border-width: 6px;
     border-style: solid;
@@ -13,7 +13,7 @@
 }
 
 /* For each <label> that is child of class=".collapsible" */
-.collapsible > :first-child {
+.collapsible > :first-child label {
     background-color: aquamarine;
     display: flex;
     align-items: center;
@@ -23,7 +23,7 @@
 }
 
 /* For each <label> that is child of class=".collapsible", select all descendants */
-.collapsible > :first-child * {
+.collapsible > :first-child label * {
     cursor: pointer;
 }
 
@@ -41,7 +41,7 @@
 }
 
 /* When checked: .collapsible > :first-child:before */
-.collapsible > :first-child:has(input:checked):before {
+.collapsible > :first-child label:has(input:checked):before {
     transform: rotate(90deg);
 }
 
