@@ -22,8 +22,8 @@
     cursor: pointer;
 }
 
-/* For all children after <label> for class=".collapsible" */
-.collapsible > :not(:first-child) {
+/* For all children and itself after <label> for class=".collapsible" */
+.collapsible > :not(:first-child), .collapsible > :not(:first-child) * {
     padding: 0px;
     height: 0;
     overflow: hidden;
