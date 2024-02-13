@@ -1,5 +1,5 @@
-/* Triangle inserted before each <label> */
-.collapsible > label:before {
+/* Triangle inserted before each <label> (:first-child here because auto-insertion of <p>) */
+.collapsible > :first-child:before {
     content: " ";
     border-width: 6px;
     border-style: solid;
@@ -12,7 +12,7 @@
     transform-origin: 2px center;
 }
   
-.collapsible > label {
+.collapsible > :first-child {
     background-color: aquamarine;
     display: flex;
     align-items: center;
@@ -21,22 +21,22 @@
     border-radius: 8px;
 }
   
-.collapsible > :not(label) {
+.collapsible > :not(:first-child) {
     padding: 10px;
     height: 0;
     overflow: hidden;
     opacity: 0;
 }
   
-.collapsible > label > input {
+.collapsible > :first-child input {
     display: none;
 }
 
-.collapsible > label:has(input:checked):before {
+.collapsible > :first-child:has(input:checked):before {
     transform: rotate(90deg);
 }
 
-.collapsible:has(input:checked) > :not(label) {
+.collapsible:has(input:checked) > :not(:first-child) {
     padding: 10px;
     opacity: 1;
     height: auto;
