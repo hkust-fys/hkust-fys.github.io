@@ -19,3 +19,4 @@ remote_theme: sighingnow/jekyll-gitbook
 title: HKUST FYS
 toc:
   enabled: true
+url: "https://hkust-fys.github.io"
