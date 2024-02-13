@@ -10,6 +10,7 @@ List of nature:
    - Summer
    - Autumn
    - Winter
+   - [Bad weather](bad_weather.md)
    - [Night](Night.md)
 2. Flora
    - Seaweed
