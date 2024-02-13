@@ -34,4 +34,4 @@ Choi Hung is one of the biggest public transport interchange. Many bus routes go
 
 ## Hang Hau and Po Lam
 
-![Hang Hau](_pages/places/off_campus/Hang_Hau.md)
+![Hang Hau](https://hkust-fys.github.io/_pages/places/off_campus/Hang_Hau.md)
