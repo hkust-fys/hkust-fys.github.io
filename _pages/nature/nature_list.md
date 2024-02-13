@@ -20,6 +20,7 @@ List of nature:
       - Spider
       - Sea Cucumber
       - Sea Star
+      - [Sea Urchin](sea_urchin.md)
    2. Vertebrate
       - Therapy dogs
       - Stray cats
