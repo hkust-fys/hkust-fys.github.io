@@ -70,6 +70,11 @@ If you're not aiming for COMP/CPEG/DSCT/RMBI/EVMT, please choose your aimed majo
 ### Major headstart list
 
 For the latest information, refer to [major requirements](https://prog-crs.hkust.edu.hk/ugprog) and [USTSpace](https://ust.space/) (remember to sort by _Semester_ or _Post Date_)  
+
+<link rel="stylesheet" href="seng_guide.css">
+
+- [ ] checkbox support?
+
 <details markdown="1">
 <summary>BIEN</summary>
 

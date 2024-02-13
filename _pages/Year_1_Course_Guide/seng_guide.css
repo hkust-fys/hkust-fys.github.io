@@ -1,0 +1,48 @@
+/* Triangle */
+label:before {
+    content: " ";
+    border-width: 6px;
+    border-style: solid;
+    border-color: transparent transparent transparent black;
+    height: 0;
+    font-size: 0;
+    position: absolute;
+    left: 18px;
+    transition: transform 0.5s;
+    transform-origin: 2px center;
+  }
+  
+  label {
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 5px 0px 5px 20px;
+    border-radius: 8px;
+  }
+  
+  .section div {
+    padding: 10px;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
+  }
+  
+  input {
+    display: none;
+  }
+  
+  input:checked ~ label:before {
+    transform: rotate(90deg);
+  }
+  
+  input:checked ~ div {
+    padding: 10px;
+    opacity: 1;
+    height: auto;
+  }
+  
+  /* Second level list */
+  .square {
+    list-style-type: square;
+  }
