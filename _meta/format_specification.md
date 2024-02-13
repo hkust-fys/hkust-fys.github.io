@@ -20,4 +20,4 @@ title: title value
 
 The properties must be ordered by their key names alphabetically. Additional properties can be added.
 
-For `layout value`, it must be `post` for all pages except for the homepage, for which it must be `home`. For `title value`, it must be any non-empty string complying with [Title Policy § Titles](title_policy.md#titles).
+For `layout value`, it must be `post` for all pages except for the homepage, for which it must be `home`. For `title value`, it must be any non-empty string complying with the [naming policy § titles](naming_policy.md#titles).
