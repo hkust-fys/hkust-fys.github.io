@@ -5,6 +5,10 @@ title: Format Specification
 
 This format specification describes the _technical_ format of each file type. It does not specify the content formatting, style, and others, which is instead described in the [Manual of Style](Manual_of_Style.md).
 
+## Files
+
+All files must end with a newline except for empty files.
+
 ## Pages
 
 All pages must use Markdown. Their file extension must be `.md`.
