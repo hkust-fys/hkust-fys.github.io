@@ -11,6 +11,6 @@ It can be accessed through the staircase in [North Gate](../chapter0/North_Gate.
 You may also see a 30m tall waterfall, especially during wet season on the trail to Pak Shui Wun.
 
 ![Inside Pak Shui Wun](/media/insidePakShuiWun.jpg)
-![Inside Pak Shui Wun]（/media/Pakshuiwun2.jpg)
+![Inside Pak Shui Wun](/media/Pakshuiwun2.jpg)
 ![View of HKUST from the beach](/media/pak_shui_wun.png)
 
