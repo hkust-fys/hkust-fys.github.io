@@ -2,7 +2,7 @@
 layout: post
 title: Atrium 
 ---
-
+## Atrium
 The main lobby of [HKUST](). The sheltered area opposing to [Redbird Sundial](Redbird_Sundial.md).
 
 It is connecting to [Academic Concourse](Academic_Concourse.md), [Library](Library.md), [LG1]() (down), [Mushroom](Mushroom.md).
