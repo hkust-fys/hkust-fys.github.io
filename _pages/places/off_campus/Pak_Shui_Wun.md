@@ -13,4 +13,3 @@ You may also see a 30m tall waterfall, especially during wet season on the trail
 ![Inside Pak Shui Wun](/media/insidePakShuiWun.jpg)
 ![Inside Pak Shui Wun](/media/Pakshuiwun2.jpg)
 ![View of HKUST from the beach](/media/pak_shui_wun.png)
-
