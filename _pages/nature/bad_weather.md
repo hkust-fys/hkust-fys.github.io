@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bad Weather 
+title: bad_weather 
 ---
 ## Bad weather
 Including heavy rain, typhoon, extreme cold, etc...
@@ -19,4 +19,3 @@ During heavy and prolong rain, the seawater may turn into yellow due to heavy ru
 
 
 I am always waiting to see landslide in HKUST by the way. 
-
