@@ -15,7 +15,6 @@ summary {
     display: flex;
     align-items: center;
     padding: 5px 0px 5px 20px;
-    border-radius: 8px;
     cursor: pointer;
 }
 
