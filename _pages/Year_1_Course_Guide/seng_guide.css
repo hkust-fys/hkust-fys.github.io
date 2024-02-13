@@ -24,7 +24,7 @@
 
 /* For all children after <label> for class=".collapsible" */
 .collapsible > :not(:first-child) {
-    padding: 10px;
+    padding: 0px;
     height: 0;
     overflow: hidden;
     opacity: 0;
