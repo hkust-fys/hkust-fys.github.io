@@ -8,9 +8,7 @@ The mushroom is facing the East, you can view nice sunrise and [moonrise](Night)
 
 > sunrise in mushroom:
 ![mushroom](/media/mushroom.jpg)
-
 > sunrise in mushroom:
 ![sunrise](/media/sunrise.jpg)
-
 > moonrise in mushroom during evening:
 ![moonrise](/media/twilight_moonrise.jpg)

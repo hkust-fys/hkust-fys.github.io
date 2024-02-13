@@ -219,6 +219,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 ### If available: 3-4 credit transferred in Summer
 
 Statistics (from Korea University through APRU Virtual Exchange) credit transferring to one of:
+
 - CIVL2160 \[3\] for CIVL/CIEV
 - IEDA2540 \[3\] for DA/IEEM
 - ISOM2500 \[3\] for RMBI

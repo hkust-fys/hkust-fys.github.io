@@ -13,7 +13,6 @@ You may also see a 30m tall waterfall, especially during wet season on the trail
 
 > a mini river mouth:
 ![Inside Pak Shui Wun](/media/insidePakShuiWun.jpg)
-
 > Nice beach (you can see the water sport center in HKUST at the right most):
 ![Inside Pak Shui Wun](/media/Pakshuiwun2.jpg)
 ![View of HKUST from the beach](/media/pak_shui_wun.png)
