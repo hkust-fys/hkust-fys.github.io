@@ -28,11 +28,10 @@ Relevant areas outside the University
   - [Redbird Sundial](on_campus/Redbird_Sundial.md)
 - **Classrooms**
 - **Common Rooms and Study Areas**
-  - [CYT](CYT.md)
+  - [CYT](on_campus/CYT.md)
   - [SBM Study Area]()
   - [Sci-Home]()
     - [OCES department and LIFS department]()
-    - [PHYS department]()
   - [SENG Commons]()
     - [CIVL department]()
 - **Lecture Theatres**
@@ -54,7 +53,7 @@ Relevant areas outside the University
   - [Can.teen (LG1&LSK G/F)]()
   - [China Garden]()
   - [Ebeneezer's]()
-  - [Gold Rice Bowl]()
+  - [Gold Rice Bowl](on_campus/restaurant/Gold_Rice_Bowl.md)
   - [Grab & Go]()
   - [HFT]()
   - [Hungry Korean]()
