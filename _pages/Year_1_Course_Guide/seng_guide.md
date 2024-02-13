@@ -83,7 +83,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [BIEN2410](https://ust.space/review/BIEN2410) (Spring) \[3\] (if DSE Biology >= 3 or LIFS1901 in Fall)
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>CENG</summary>
@@ -93,7 +93,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>CEEV</summary>
@@ -103,7 +103,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>SUSEE</summary>
@@ -112,7 +112,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - ENEG3110 (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>CIVL/CIEV</summary>
@@ -121,7 +121,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [CIVL2110](https://ust.space/review/CIVL2110) (Spring) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>COMP/CPEG/DSCT</summary>
@@ -136,7 +136,7 @@ Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[inser
   - [COMP2711H](https://ust.space/review/COMP2711H) \[4\] if you can meet the prerequisite
   - Remark: WIP
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>CPEG/ELEC</summary>
@@ -147,7 +147,7 @@ Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[inser
   - [PHYS1114](https://ust.space/review/PHYS1114) \[3\]
   - [PHYS1314](https://ust.space/review/PHYS1314) \[3\] (if and only if you are a PHYS god)
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>DA/IEEM</summary>
@@ -158,7 +158,7 @@ Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[inser
 - [IEDA3230](https://ust.space/review/IEDA3230) (Spring) \[3\]
 - [IEDA3300](https://ust.space/review/IEDA3300) (if available, Spring) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>ISDN</summary>
@@ -173,7 +173,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ISDN2602](https://ust.space/review/ISDN2602) (when available) \[3\]
 - [ISDN2603](https://ust.space/review/ISDN2603) (Fall) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>AE/MECH</summary>
@@ -186,7 +186,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [MECH1907](https://ust.space/review/MECH1907) (Fall) \[3\]
 - [MECH2410](https://ust.space/review/MECH2410) (Spring) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>EVMT</summary>
@@ -196,7 +196,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ENVR3310](https://ust.space/review/ENVR3310) (Spring) \[3\]
 - [ENVR3420](https://ust.space/review/ENVR3420) (Fall) \[3\]
 
-</details markdown="1">
+</details>
 
 <details markdown="1">
 <summary>RMBI</summary>
@@ -212,7 +212,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [MGMT2010](https://ust.space/review/MGMT2010) \[2\]
 - [MGMT2130](https://ust.space/review/MGMT2130) \[2\]
 
-</details markdown="1">
+</details>
 
 ### Additional
 
