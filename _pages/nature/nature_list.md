@@ -20,8 +20,7 @@ List of nature:
       - Sea Cucumber
       - Sea Star
    2. Vertebrate
-      - therapy dogs
-      - stray cats
+      - Therapy dogs
+      - Stray cats
       - Kingfisher
       - Crow
-   
