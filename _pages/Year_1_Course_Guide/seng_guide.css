@@ -1,5 +1,4 @@
-/* Triangle inserted before each <label> that is child of class=".collapsible" (:first-child here because auto-wrapping of <p>) */
-.collapsible > :first-child label:before {
+summary:before {
     content: " ";
     border-width: 6px;
     border-style: solid;
@@ -12,8 +11,7 @@
     transform-origin: 2px center;
 }
 
-/* For each <label> that is child of class=".collapsible" */
-.collapsible > :first-child label {
+summary {
     background-color: aquamarine;
     display: flex;
     align-items: center;
@@ -22,27 +20,19 @@
     cursor: pointer;
 }
 
-/* For all children after <label> for class=".collapsible" */
-.collapsible > :not(:first-child) {
+details > :not(summary) {
     margin: 0px;
     padding: 0px;
     opacity: 0;
     height: 0;
     overflow: hidden;
 }
-  
-/* For all <input> inside <label> for class=".collapsible" */
-.collapsible > :first-child input {
-    display: none;
-}
 
-/* When checked: .collapsible > :first-child:before */
-.collapsible > :first-child label:has(input:checked):before {
+details[open] summary:before {
     transform: rotate(90deg);
 }
 
-/* When checked: .collapsible > :not(:first-child) */
-.collapsible:has(input:checked) > :not(:first-child) {
+details[open] > :not(:first-child) {
     padding: 10px;
     opacity: 1;
     height: auto;
