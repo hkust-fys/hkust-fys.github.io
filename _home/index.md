@@ -23,7 +23,7 @@ Second, for **Readers**, here's the table of contents:
    3. [People]()
    4. [Society]()
    5. [Others]()
-   6. [nature](nature_list.md)
+   6. [Nature](/_pages/nature/nature_list.md)
 2. **Strategies**
    1. [Programs]()
    2. [Courses]()
