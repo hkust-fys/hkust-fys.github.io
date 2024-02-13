@@ -22,12 +22,13 @@
     cursor: pointer;
 }
 
-/* For all children and itself after <label> for class=".collapsible" */
-.collapsible > :not(:first-child), .collapsible > :not(:first-child) * {
+/* For all children after <label> for class=".collapsible" */
+.collapsible > :not(:first-child) {
+    margin: 0px;
     padding: 0px;
+    opacity: 0;
     height: 0;
     overflow: hidden;
-    opacity: 0;
 }
   
 /* For all <input> inside <label> for class=".collapsible" */
@@ -45,5 +46,4 @@
     padding: 10px;
     opacity: 1;
     height: auto;
-    list-style-type: square;
 }
