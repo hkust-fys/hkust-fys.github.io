@@ -21,7 +21,10 @@ Disclaimer: not for IIM (IIM plan on their own)
   - PHYS1112 \[3\] safe choice — can act as a required course for all majors
   - PHYS1312 \[3\] if and only if you are a PHYS god
   - another Science Intro course in the same "OR" group for your aimed major \[3\]
-- COMP1021 \[3\] (required for all majors and counts as Engineering Intro)
+- First engineering introduction course: One of
+  - COMP1021 \[3\] (required for all majors)
+  - C placement test + COMP2011 \[4\] (no C placement test then does not count, and you can file course deviation for COMP1021)
+  - C placement test + COMP2012H \[5\] (no C placement test then does not count, and you can file course deviation for COMP1021)
 - Engineering Intro or Major Headstart \[3-4\]
 
 ### 17-20 credit Spring:
