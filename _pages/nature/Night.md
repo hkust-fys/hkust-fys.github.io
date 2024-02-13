@@ -2,9 +2,6 @@
 layout: post
 title: Night
 ---
-
-## Night
-
 You can see moon rise in [mushroom](/_pages/places/on_campus/Mushroom.md) as [mushroom](/_pages/places/on_campus/Mushroom.md) is facing the East.
 
 > moonrise in mushroom:

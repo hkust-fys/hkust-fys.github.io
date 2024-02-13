@@ -1,8 +1,7 @@
 ---
 layout: post
-title: bad_weather 
+title: Bad Weather 
 ---
-## Bad weather
 ![bbc](/media/bbc.jpg)
 
 Including heavy rain, typhoon, extreme cold, etc...
