@@ -78,6 +78,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [LIFS1901](https://ust.space/review/LIFS1901) \[3\] (if DSE Biology < 3)
 - [BIEN2410](https://ust.space/review/BIEN2410) (Spring) \[3\] (if DSE Biology >= 3 or LIFS1901 in Fall)
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
+
 </details>
 
 <details markdown="1">
@@ -87,6 +88,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [CENG1500](https://ust.space/review/CENG1500) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
+
 </details>
 
 <details markdown="1">
@@ -96,6 +98,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [CENG1500](https://ust.space/review/CENG1500) (Spring) \[3\] > [CENG1000](https://ust.space/review/CENG1000) (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
 - [CENG2220](https://ust.space/review/CENG2220) (Spring) \[3\]
+
 </details>
 
 <details markdown="1">
@@ -104,6 +107,7 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [MECH1902](https://ust.space/review/MECH1902) (Fall) \[3\] > [CENG1700](https://ust.space/review/CENG1700) (Fall) \[3\] = [SUST1000](https://ust.space/review/SUST1000) \[3\]
 - ENEG3110 (Fall) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
+
 </details>
 
 <details markdown="1">
@@ -112,19 +116,22 @@ For the latest information, refer to [major requirements](https://prog-crs.hkust
 - [CIVL1100](https://ust.space/review/CIVL1100) \[3\]
 - [CIVL2110](https://ust.space/review/CIVL2110) (Spring) \[3\]
 - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
+
 </details>
 
 <details markdown="1">
 <summary>COMP/CPEG/DSCT</summary>
 
-Remark: You can access COMP course pages with https://course.cse.ust.hk/\[insert_course_code\] **even if you're not enrolled in it**
+Remark: You can access COMP course pages with <https://course.cse.ust.hk/\[insert_course_code\>] **even if you're not enrolled in it**
+
 - [COMP2011](https://ust.space/review/COMP2011) (Spring unless COMP1021/COMP1022P transferred) \[4\]
-    - Remark: Recommend to take COMP1029C (P/F) in Winter or Backup all data from COMP2011 Course Site to familiarise yourself with C++ Syntax
+  - Remark: Recommend to take COMP1029C (P/F) in Winter or Backup all data from COMP2011 Course Site to familiarise yourself with C++ Syntax
 - [COMP2211](https://ust.space/review/COMP2211) as elective (Spring, unless COMP1021/COMP1022P transferred) \[3\]
 - one of
-    - [COMP2711](https://ust.space/review/COMP2711) \[4\]
-    - [COMP2711H](https://ust.space/review/COMP2711H) \[4\] if you can meet the prerequisite
-    - Remark: WIP
+  - [COMP2711](https://ust.space/review/COMP2711) \[4\]
+  - [COMP2711H](https://ust.space/review/COMP2711H) \[4\] if you can meet the prerequisite
+  - Remark: WIP
+
 </details>
 
 <details markdown="1">
@@ -133,24 +140,27 @@ Remark: You can access COMP course pages with https://course.cse.ust.hk/\[insert
 - [ELEC1100](https://ust.space/review/ELEC1100) \[4\]
 - [ELEC1200](https://ust.space/review/ELEC1200) (Spring) for ELEC only \[4\]
 - one of
-    - [PHYS1114](https://ust.space/review/PHYS1114) \[3\]
-    - [PHYS1314](https://ust.space/review/PHYS1314) \[3\] (if and only if you are a PHYS god)
+  - [PHYS1114](https://ust.space/review/PHYS1114) \[3\]
+  - [PHYS1314](https://ust.space/review/PHYS1314) \[3\] (if and only if you are a PHYS god)
+
 </details>
 
 <details markdown="1">
 <summary>DA/IEEM</summary>
 
 - one of
-    - [ECON2103](https://ust.space/review/ECON2103) \[3\] (if HKDSE Economics < 3)
-    - [ECON2113](https://ust.space/review/ECON2113) \[3\] (if HKDSE Economics >= 3)
+  - [ECON2103](https://ust.space/review/ECON2103) \[3\] (if HKDSE Economics < 3)
+  - [ECON2113](https://ust.space/review/ECON2113) \[3\] (if HKDSE Economics >= 3)
 - [IEDA3230](https://ust.space/review/IEDA3230) (Spring) \[3\]
 - [IEDA3300](https://ust.space/review/IEDA3300) (if available, Spring) \[3\]
+
 </details>
 
 <details markdown="1">
 <summary>ISDN</summary>
 
 Remark: don't expect good grades in ISDN, and grades won't matter for getting into it since the major is _project-based_
+
 - [ISDN1001](https://ust.space/review/ISDN1001) (Fall) \[3\]
 - [ISDN1002](https://ust.space/review/ISDN1002) (Fall) \[3\]
 - [ISDN1006](https://ust.space/review/ISDN1006) (Spring) \[3\]
@@ -158,18 +168,20 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ISDN2601](https://ust.space/review/ISDN2601) (Fall) \[3\]
 - [ISDN2602](https://ust.space/review/ISDN2602) (when available) \[3\]
 - [ISDN2603](https://ust.space/review/ISDN2603) (Fall) \[3\]
+
 </details>
 
 <details markdown="1">
 <summary>AE/MECH</summary>
 
 - one of
-    - [CHEM1008](https://ust.space/review/CHEM1008) \[3\]
-    - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
-    - [LIFS1901](https://ust.space/review/LIFS1901) \[3\]
-    - [PHYS1101](https://ust.space/review/PHYS1101) \[4\]
+  - [CHEM1008](https://ust.space/review/CHEM1008) \[3\]
+  - [CHEM1020](https://ust.space/review/CHEM1020) \[3\]
+  - [LIFS1901](https://ust.space/review/LIFS1901) \[3\]
+  - [PHYS1101](https://ust.space/review/PHYS1101) \[4\]
 - [MECH1907](https://ust.space/review/MECH1907) (Fall) \[3\]
 - [MECH2410](https://ust.space/review/MECH2410) (Spring) \[3\]
+
 </details>
 
 <details markdown="1">
@@ -179,6 +191,7 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 - [ENVR2010](https://ust.space/review/ENVR2010) (Fall) \[3\]
 - [ENVR3310](https://ust.space/review/ENVR3310) (Spring) \[3\]
 - [ENVR3420](https://ust.space/review/ENVR3420) (Fall) \[3\]
+
 </details>
 
 <details markdown="1">
@@ -186,14 +199,15 @@ Remark: don't expect good grades in ISDN, and grades won't matter for getting in
 
 - [ACCT2010](https://ust.space/review/ACCT2010) \[3\]
 - one of
-    - [ECON2103](https://ust.space/review/ECON2103) \[3\] (if HKDSE Economics < 3)
-    - [ECON2113](https://ust.space/review/ECON2113) \[3\] (if HKDSE Economics >= 3)
+  - [ECON2103](https://ust.space/review/ECON2103) \[3\] (if HKDSE Economics < 3)
+  - [ECON2113](https://ust.space/review/ECON2113) \[3\] (if HKDSE Economics >= 3)
 - [ECON2123](https://ust.space/review/ECON2123) \[3\]
 - [FINA2303](https://ust.space/review/FINA2303) \[3\]
 - [ISOM2010](https://ust.space/review/ISOM2010) \[3\]
 - [ISOM2700](https://ust.space/review/ISOM2700) \[3\]
 - [MGMT2010](https://ust.space/review/MGMT2010) \[2\]
 - [MGMT2130](https://ust.space/review/MGMT2130) \[2\]
+
 </details>
 
 ### Additional

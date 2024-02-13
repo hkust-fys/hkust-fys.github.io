@@ -9,7 +9,7 @@ Both [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) and [T
 
 | Station | Line(s) |
 | :--- | :--- |
-| [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) | Kwun Tong Line, Tseung Kwan O Line
+| [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) | Kwun Tong Line, Tseung Kwan O Line |
 
 ## 🚌 Bus
 

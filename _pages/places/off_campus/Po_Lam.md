@@ -9,7 +9,7 @@ Po Lam is served by the MTR at [Po Lam Station](https://en.wikipedia.org/wiki/Po
 
 | Station | Line(s) |
 | :--- | :--- |
-| [Po Lam](https://en.wikipedia.org/wiki/Po_Lam_station) | Tseung Kwan O Line
+| [Po Lam](https://en.wikipedia.org/wiki/Po_Lam_station) | Tseung Kwan O Line |
 
 ## 🚌 Bus
 
@@ -24,4 +24,4 @@ Po Lam is served by the MTR at [Po Lam Station](https://en.wikipedia.org/wiki/Po
 | [12](https://www.16seats.net/eng/gmb/gn_11m.html) | Sai Kung Pier Station | Po Lam Station | HKUST (North) |
 | [11S](https://www.16seats.net/eng/gmb/gn_11s.html)* | Choi Hung Station | Po Lam Station | HKUST (South) |
 
-*\* Overnight route*
+- \* Overnight route

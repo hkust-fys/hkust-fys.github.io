@@ -8,7 +8,6 @@ Where a [Mass Transit Railway (MTR) station](https://en.wikipedia.org/wiki/Choi_
 ## 🚉 MTR (towards the city)
 
 - [Choi Hung Station](https://en.wikipedia.org/wiki/Choi_Hung_station)
-
   - Kwun Tong Line
 
 ## 🚌 Bus
