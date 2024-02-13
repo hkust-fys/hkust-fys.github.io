@@ -71,6 +71,7 @@ If you're not aiming for COMP/CPEG/DSCT/RMBI/EVMT, please choose your aimed majo
 
 For the latest information, refer to [major requirements](https://prog-crs.hkust.edu.hk/ugprog) and [USTSpace](https://ust.space/) (remember to sort by _Semester_ or _Post Date_)  
 
+<!-- Edit this file for collapsible displays -->
 <link rel="stylesheet" href="seng_guide.css">
 
 <div class="collapsible" markdown="1">
