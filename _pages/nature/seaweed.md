@@ -1,6 +1,6 @@
 ---
 layout: post
-title: seaweed
+title: Seaweed
 ---
 It blooms during winter to early spring in [seafront](). Apparently, the species belongs to [*Sargassaceae*](https://en.wikipedia.org/wiki/Sargassaceae). The texture is not really edible, since the fibre is too strong (don't ask me how I know). There are also some edible seaweed found in seafront reported by [Dr. Cynthia Yau](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=sin-ting-cynthia-yau-cynthiastyau).
 
