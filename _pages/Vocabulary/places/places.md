@@ -9,7 +9,7 @@ title: Places
 ![HKUST location](on_campus/map_HKUST.png) ([base image from Wikipedia](https://en.wikipedia.org/wiki/Kowloon_Peninsula#/media/File:Hong_Kong_Kowloon.svg))
 ## Tai Po Tsai Village
 The village next to HKUST where you might get cheap housing from.
-![Tai Po Tsai Village location](on_campus/map_Tai_Po_Tsai_Village.png) (Copyright Google Maps)
+![Tai Po Tsai Village location](off_campus/map_Tai_Po_Tsai_Village.png) (Copyright Google Maps)
 ## Choi Hung
 Where a [Mass Transit Railway (MTR) station](https://en.wikipedia.org/wiki/Choi_Hung_station) is located at. You can get on bus route 91 ("Clear Water Bay" direction) or 91M ("Po Lam" direction), or minibus route 11 ("Hang Hau" direction) towards HKUST.
 ## North Gate / North Bus Stop
