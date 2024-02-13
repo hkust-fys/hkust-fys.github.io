@@ -2,6 +2,7 @@
 layout: post
 title: Pak Shui Wun (白水碗)
 ---
+
 ## Pak Shui Wun (白水碗)
 
 A very nice beach next to [HKUST](/_pages/places/chapter0/HKUST_content.md)'s [Seafront](). The beach is semi-managed by an organic farm, 綠田園. Sometimes they hold events like wedding, school visitings, kayaking, etc. They offer shipping service for their visitors as well.

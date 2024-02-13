@@ -3,7 +3,9 @@ layout: post
 title: Gold Rice Bowl(GRB)
 ---
 <<<<<<< HEAD
+
 ## Gold Rice Bowl (GRB, 金兜)
+
 Probably you may have heard from your seniors, saying how bad the food is, or [how they get diarrhea after having the food from GRB](GRB_rumor.md). However, this never happens to me. To be fair, GRB's food is not that bad, if you only consider their Dan Dan noodles (擔擔麪) and Choice of two/three dishes (兩餸/三餸飯). I do not make comments on other foods since they are not that popular. (When compared with Dan Dan noodles and Choice of n dishes. Just go to there and see how long the queue is.)
 
 
