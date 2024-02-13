@@ -10,7 +10,7 @@ List of nature:
    - Summer
    - Autumn
    - Winter
-   - [Night](Night.md)
+   - [Night](Night)
 2. Flora
    - Seaweed
    - Bauhinia
