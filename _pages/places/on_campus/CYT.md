@@ -4,7 +4,9 @@ title: CYT
 ---
 鄭裕彤樓 ("C"heng "Y"u "T"ong Building).
 
-For the G/F, there are lecture theatres: [LT-K]() and [LT-L](), classrooms: from Room G001 to G016, and [Subway](/_pages/places/on_campus/restaurant/Subway.md).
+Lift 35-37 are located in here.
+
+For the G/F, there are lecture theatres: [LT-L](), classrooms: from Room G001 to G016, and [Subway](/_pages/places/on_campus/restaurant/Subway.md).
 
 For the UG/F, there are classrooms from UG001(A/B/C) to UG002(A/B).
 
