@@ -186,8 +186,8 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 | 91P * | Choi Hung|
 | 291P & | Mong Kok |
 
-- \*: Evening service only (17:25 - 18:30)
-- \&: Evening service only (17:45)
+- \*: Evening Peak Hour only (17:25 - 18:30)
+- &: Evening Peak Hour only (17:45)
 
 #### 🚐 Minibus from HKUST (South)
 
@@ -198,5 +198,5 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 | 11S *  | Choi Hung    |
 | 104    | Ngau Tau Kok |
 
-- \^: Evening Peak Hour only (16:30 - 19:00)
+- ^: Evening Peak Hour only (16:30 - 19:00)
 - \*: Overnight route
