@@ -62,7 +62,7 @@ Relevant areas outside the University
   - [Pacific Coffee]()
   - [Passion]()
   - [Seafront Cafeteria]()
-  - [Subway]()
+  - [Subway](on_campus/restaurant/Subway.md)
   - [Starbucks]()
   - [TT Veggie]()
   - [Uni Bistro]()
