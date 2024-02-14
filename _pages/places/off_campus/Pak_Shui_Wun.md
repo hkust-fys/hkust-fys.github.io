@@ -7,7 +7,7 @@ A very nice beach next to [HKUST](/_pages/places/chapter0/HKUST_content.md)'s [S
 > Ship:
 ![Ship in Pak Shui Wun](/media/ship.jpg)
 
-It can be accessed through the staircase in [North Gate](../chapter0/North_Gate.md) next to the station of minibus route [12]().
+It can be accessed through the staircase in [North Gate](../chapter0/North_Gate.md) next to the station of minibus route [12](/_pages/Transports/Transports.md).
 
 You may also see a 30m tall waterfall, especially during wet season on the trail to Pak Shui Wun.
 
