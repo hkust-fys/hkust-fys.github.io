@@ -2,9 +2,9 @@
 layout: post
 title: Night
 ---
-You can see moon rise in [mushroom](/_pages/places/on_campus/Mushroom.md) as [mushroom](/_pages/places/on_campus/Mushroom.md) is facing the East.
+You can see moonrise in [Mushroom](/_pages/places/on_campus/Mushroom.md) as mushroom is facing the East.
 
-> moonrise in mushroom:
+> Moonrise in Mushroom:
 ![moonrise](/media/moonrisemushroom.jpg)
 
 During nice weather, you can see plenty of stars at [Seafront](), especially after 2 a.m. when the street lights are off.

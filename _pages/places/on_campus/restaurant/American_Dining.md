@@ -3,4 +3,4 @@ layout: post
 title: American Diner
 ---
 
-Offers cheap spaghetti, burgers, fries and coffee.
+It is located in 1/F. It offers cheap spaghetti, burgers, fries and coffee.
