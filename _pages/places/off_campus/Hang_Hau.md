@@ -35,4 +35,3 @@ There is also a special bus route 91B which goes directly to HKUST every school 
 - ^ Peak hour route: departs at 08:30
 
 ------------------------------------------------------
-

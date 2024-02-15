@@ -8,5 +8,3 @@ For most of the case, it means walking from the 1/F of [CYT](/_pages/places/on_c
 Since CYT and the whole academic building are connected, you can walk to anywhere even upstairs (As long as you don't get lost).
 
 Other popular paths would be:
-
-
