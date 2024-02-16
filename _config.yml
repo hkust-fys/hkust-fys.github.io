@@ -1,7 +1,4 @@
 collections: # Order of the table of contents on the left
-  home:
-    output: true
-    permalink: /:path
   meta:
     output: true
     permalink: /:collection/:path
