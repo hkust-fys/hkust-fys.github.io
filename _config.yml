@@ -15,7 +15,7 @@ plugins:
 relative_links: # Settings of jekyll-relative-links
   collections: true
   enabled: true
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: hkust-fys/jekyll-gitbook
 title: HKUST FYS
 toc:
   enabled: true
