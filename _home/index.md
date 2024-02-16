@@ -29,11 +29,13 @@ Second, for **Readers**, here's the table of contents:
    2. [Courses]()
    3. [Mating 👀]()
    4. [Activities]()
+   5. [Others]()
 3. **Anecdotes**
    1. [School foundation and history]()
    2. [Gossips]()
       - [Gold Rice Bowl Rumor](/_pages/anecdotes/GRB_rumor)
    3. [Ghost stories]()
+      - [LG2](/_pages/anecdotes/LG2.md)
 
 ***HKUST FYS DISCORD*** is a student managed server mainly for chit-chat and exchanging inspirations. We welcome everyone including non-UST members to learn more about here. Pop-up activities in real life are held sometimes for fostering the bonding between members.
 
