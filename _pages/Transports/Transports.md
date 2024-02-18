@@ -203,6 +203,6 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 
 ## 🚶 Healthy Lifestyle: Going to HKUST on foot
 
-Actually, you can walk to HKUST by foot, from Hang Hau or Po Lam (You better not walk from Choi Hung). If you walk from Hang Hau, you will be walking along Sheung Ning Road, Ying Yip Road and Clear Water Bay road. It will take around 40 minutes. You can also choose to walk along the Duckling Hill (鴨仔山), which I personally do not recommend since it's a bit dangerous.
+Actually, you can walk to HKUST by foot, from Hang Hau or Po Lam (You better not walk from Choi Hung). If you walk from Hang Hau, you will be walking along Sheung Ning Road, Ying Yip Road and Clear Water Bay road. It will take around 40 minutes. You can also choose to walk along the Duckling Hill (鴨仔山), which I personally do not recommend since it's a bit tiring.
 
-If you start from Po Lam, you will be crossing Metro City Plaza to go to Yau Yue Wan Customs Staff Tower (魷魚灣海關人員宿舍). You will see an entrance that can guide you to go to the mountain. It will take around 20 minutes, provided if you have some experience in mountain climbing (Not too difficult, only stairs).
+If you start from [Po Lam](_pages/Transports/Po_Lam_To_UST.md), you will be crossing Metro City Plaza to go to Yau Yue Wan Customs Staff Tower (魷魚灣海關人員宿舍). You will see an entrance that can guide you to go to the mountain. It will take around 20 minutes, provided if you have some experience in mountain climbing (Not too difficult but quite tiring).
