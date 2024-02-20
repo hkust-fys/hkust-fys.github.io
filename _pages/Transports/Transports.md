@@ -22,14 +22,14 @@ Choi Hung is one of the biggest public transport interchange. Many bus routes go
 
 If you are from Diamond Hill, you can choose to take 91/91M/91P at bus terminal under Hollywood Plaza, or you may choose to take shuttles at [Sheung Yuen Street](https://www.google.com.hk/maps/@22.3398628,114.2031333,3a,75y,16.95h,88.65t/data=!3m6!1e1!3m4!1sBosmAfB61csqtKj-KZYY3A!2e0!7i13312!8i6656?hl=en).
 
-#### 🚉 MTR from Choi Hung / Diamond Hill
+#### 🚉 MTR Stations (Diamond Hill/Choi Hung)
 
-| Stations     | Lines                           |
-| ------------ | ------------------------------- |
-| [Choi Hung](https://en.wikipedia.org/wiki/Choi_Hung_station)    | Kwun Tong Line                  |
-| [Diamond Hill](https://en.wikipedia.org/wiki/Diamond_Hill_station) | Kwun Tong Line and Tuen Ma Line |
+| Stations                                                  | Lines                           | Exit for (mini)bus |
+| ------------------------------------------------------------------ | ------------------------------- | -- |
+| [Choi Hung](https://en.wikipedia.org/wiki/Choi_Hung_station)       | Kwun Tong Line                  | C1 (minibus) / C2 (bus) |
+| [Diamond Hill](https://en.wikipedia.org/wiki/Diamond_Hill_station) | Kwun Tong Line and Tuen Ma Line | C2 |
 
-#### 🚌 Bus from Choi Hung / Diamond Hill
+#### 🚌 Bus to HKUST (Diamond Hill/Choi Hung)
 
 | Route | Direction       | Get on at                            | Get off at    |
 | ----- | --------------- | ------------------------------------ | ------------- |
@@ -39,7 +39,7 @@ If you are from Diamond Hill, you can choose to take 91/91M/91P at bus terminal 
 
 - ^: Morning service only (07:55 08:05 08:15 08:30 08:50)
 
-#### 🚐 Minibus from Choi Hung / Diamond Hill
+#### 🚐 Minibus to HKUST (Choi Hung)
 
 | Route | Direction | Get on at            | Get off at    |
 | ----- | --------- | -------------------- | ------------- |
@@ -47,7 +47,7 @@ If you are from Diamond Hill, you can choose to take 91/91M/91P at bus terminal 
 | 11B   | HKUST     | Ngau Chi Wan Village | HKUST (North) |
 | 11S   | Po Lam    | Ngau Chi Wan Village | HKUST (North) |
 
-#### 🚌 Shuttle from Diamond Hill
+#### 🚌 Shuttle to HKUST (Diamond Hill)
 
 | Route | Direction | Get on at            | Get off at    |
 | ----- | --------- | -------------------- | ------------- |
@@ -61,27 +61,23 @@ Hang Hau and Po Lam are very close to HKUST. If you take minibus, it will only t
 
 Also, HKUST is offering 3 free shuttles from Hang Hau to HKUST.
 
-#### 🚉 MTR from Hang Hau / Po Lam
+#### 🚉 MTR Stations (Hang Hau/Po Lam)
 
-|||
-| :--- | :--- |
-| Station | Line(s) |
-| [Hang Hau](https://en.wikipedia.org/wiki/Hang_Hau_station) | Tseung Kwan O Line |
-| [Po Lam](https://en.wikipedia.org/wiki/Po_Lam_station) | Tseung Kwan O Line |
-|||
+| Stations                                                   | Line               | Exit for (mini)bus |
+| ---------------------------------------------------------- | ------------------ | ------------------ |
+| [Hang Hau](https://en.wikipedia.org/wiki/Hang_Hau_station) | Tseung Kwan O Line | B                  |
+| [Po Lam](https://en.wikipedia.org/wiki/Po_Lam_station)     | Tseung Kwan O Line | A2                 |
 
-#### 🚌 Bus from Hang Hau / Po Lam
+#### 🚌 Bus to HKUST (Hang Hau/Po Lam)
 
-|||||
-| :--- | :--- | :--- | :--- |
 | Route | Direction | Get on at | Get off at |
+| ----- | --------- | --------- | ---------- |
 | [91M](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91M&lang=en) | Diamond Hill Station | Hang Hau Station | HKUST (South) |
 | [91B](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91B&lang=en)^ | HKUST (South) | Hang Hau Station | HKUST (South) |
-|||||
 
 - ^ Peak hour route: departs at 08:30
 
-#### 🚐 Minibus from Hang Hau / Po Lam
+#### 🚐 Minibus to HKUST (Hang Hau/Po Lam)
 
 | Route | Direction | Get on at | Get off at |
 | :--- | :--- | :--- | :--- |
@@ -91,7 +87,7 @@ Also, HKUST is offering 3 free shuttles from Hang Hau to HKUST.
 
 - \* Overnight route
 
-#### 🚌 Shuttle from Hang Hau
+#### 🚌 Shuttle to HKUST (Hang Hau)
 
 | Route | Direction | Get on at            | Get off at    |
 | ----- | --------- | -------------------- | ------------- |
@@ -99,24 +95,24 @@ Also, HKUST is offering 3 free shuttles from Hang Hau to HKUST.
 
 - \* 08:30, 08:35 & 08:40 (3 trips)
 
-### Tseung Kwan O
+### Tseung Kwan O / Tiu Keng Leng
 
 Both [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) and [Tsueng Kwan O](https://en.wikipedia.org/wiki/Tseung_Kwan_O_station) have MTR stations. You can take bus route [792M](https://mobile.citybus.com.hk/nwp3/?f=1&ds=792M--Sai_Kung&l=1) towards HKUST here, but it is less frequent than other routes. Similar to Diamond Hill, HKUST is offering 8 shuttles in the morning to HKUST.
 
-#### 🚉 MTR from Tseung Kwan O / Tiu Keng Leng
+#### 🚉 MTR Stations (TKO/TKL) 
 
-| Station | Line(s) |
-| :--- | :--- |
-| [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) | Kwun Tong Line, Tseung Kwan O Line |
-| [Tseung Kwan O](https://en.wikipedia.org/wiki/Tseung_Kwan_O_station) |  Tseung Kwan O Line |
+| Station | Line(s) | Exit for bus |
+| :--- | :--- | :---- |
+| [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) | Kwun Tong Line, Tseung Kwan O Line | A1 |
+| [Tseung Kwan O](https://en.wikipedia.org/wiki/Tseung_Kwan_O_station) |  Tseung Kwan O Line | A1 |
 
-#### 🚌 Bus from Tseung Kwan O / Tiu Keng Leng
+#### 🚌 Bus to HKUST (TKO/TKL)
 
 | Route | Direction | Get on at | Get off at |
 | :--- | :--- | :--- | :--- |
 | [792M](https://mobile.citybus.com.hk/nwp3/?f=1&ds=792M--Sai_Kung&l=1) | Sai Kung | Tseung Kwan O Station OR Tiu Keng Leng Station| HK University of Science and Technology |
 
-#### 🚌 Shuttle from Tseung Kwan O
+#### 🚌 Shuttle to HKUST (TKO)
 
 | Route | Direction | Get on at            | Get off at    |
 | ----- | --------- | -------------------- | ------------- |
@@ -128,13 +124,13 @@ Both [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) and [T
 
 Ngau Tau Kok is connected to Kwun Tong Line. You can choose to take minibus route 104 to UST.
 
-#### 🚉 MTR from Kwun Tong
+#### 🚉 MTR Station (Ngau Tau Kok)
 
-| Station | Line(s) |
-| :--- | :--- |
-| [Ngau Tau Kok](https://en.wikipedia.org/wiki/Ngau_Tau_Kok_station) |  Kwun Tong Line |
+| Station | Line(s) | Exit for minibus |
+| :--- | :--- | :--- |
+| [Ngau Tau Kok](https://en.wikipedia.org/wiki/Ngau_Tau_Kok_station) | Kwun Tong Line | A |
 
-#### 🚐 Minibus from Ngau Tau Kok
+#### 🚐 Minibus to HKUST (Ngau Tau Kok)
 
 | Route | Direction | Get on at | Get off at |
 | :--- | :--- | :--- | :--- |
