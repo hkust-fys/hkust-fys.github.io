@@ -7,6 +7,7 @@ The balcony outside [Atrium](Atrium.md). It got the name from the appearance of 
 The mushroom is facing the East, you can view nice sunrise and [moonrise](/_pages/nature/Night.md) here.
 
 ## 🖼️ Photos
+
 > Sunrise in Mushroom:
 ![mushroom](/media/mushroom.jpg)
 > Sunrise in Mushroom:
