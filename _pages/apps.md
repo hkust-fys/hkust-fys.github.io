@@ -8,7 +8,7 @@ HKUST iLearn is a mobile app that literally only provides three buttons that go 
 
 ## Canvas Student
 
-Canvas Student is the most commonly used online learning system which allows you to check out the enrolled course and course related information, such as assignments, lecture notes, RVC (Lecture Recordings) and announcements. You can either download this app on your phone or visit https://canvas.ust.hk/.
+Canvas Student is the most commonly used online learning system which allows you to check out the enrolled course and course related information, such as assignments, lecture notes, RVC (Lecture Recordings) and announcements. You can either download this app on your phone or visit <https://canvas.ust.hk/>.
 
 ## HKUST Student
 
