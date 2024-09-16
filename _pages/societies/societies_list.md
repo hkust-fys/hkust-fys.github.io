@@ -1,4 +1,9 @@
-## List of Societies
+---
+layout: post
+title: Societies
+---
+
+List of Societies
 
 ### Ones under the Student Union
 
