@@ -81,8 +81,8 @@ Also paste Website links over by cursor
 | University YMCA – HKUST, HKUSTSU <br/> 香港科技大學學生會 大學青年會(香港科技大學) | su_uniy@connect.ust.hk | 23 | [uniy.hkust](https://www.facebook.com/uniy.hkust) | [uniy.hkust](https://www.instagram.com/uniy.hkust) | https://uniy.su.hkust.edu.hk |
 
 ## School / Departmental Societies (School of Business and Management)
-Name | Email | LG5 Mail Box # | Facebook | Instagram
--|-|-|-|-
+| Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
+|-|-|-|-|-|-|
 | The Business Students’ Union, HKUSTSU <br/> 香港科技大學學生會商學院學生會 | su_bsu@connect.ust.hk | 15 | [bsuhkustsu](https://www.facebook.com/bsuhkustsu) | [bsu_hkustsu](https://www.instagram.com/bsu_hkustsu) | https://hkustbsu.com |
 | Accounting Students’ Society, HKUSTSU <br/> 香港科技大學學生會會計學系系會 | su_acct@connect.ust.hk | 21 | [p/Accounting-Students-Society-HKUSTSU-100064803007887](https://www.facebook.com/p/Accounting-Students-Society-HKUSTSU-100064803007887) | [hkustsu_acct](https://www.instagram.com/hkustsu_acct) | https://acct.su.hkust.edu.hk |
 | The Economics Students’ Society, HKUSTSU <br/> 香港科技大學學生會經濟學系學生會 | su_econ@connect.ust.hk | 7 | [EconSoc.HKUST](https://www.facebook.com/EconSoc.HKUST) | [econ_hkustsu](https://www.instagram.com/econ_hkustsu) | https://linktr.ee/econ_hkustsu2425 |
@@ -90,8 +90,8 @@ Name | Email | LG5 Mail Box # | Facebook | Instagram
 | The Marketing Students’ Society, HKUSTSU <br/> 香港科技大學學生會市場學系學生會 | su_mkss@connect.ust.hk | 39 | [HKUSTMKSS](https://www.facebook.com/HKUSTMKSS) | [hkustsu.mkss](https://www.instagram.com/hkustsu.mkss) | https://linktr.ee/31hkustmkss |
 
 ## School / Departmental Societies (School of Engineering)
-Name | Email | LG5 Mail Box # | Facebook | Instagram
--|-|-|-|-
+| Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
+|-|-|-|-|-|-|
 | The Engineering Students’ Union, HKUSTSU <br/> 香港科技大學學生會工學院學生會 | su_esu@connect.ust.hk | 67 | [hkustsuesu](https://www.facebook.com/hkustsuesu) | [esu_hkustsu](https://www.instagram.com/esu_hkustsu) | https://esu.su.hkust.edu.hk |
 | Industrial Engineering and Decision Analytics Students’ Society, HKUSTSU <br/> 香港科技大學學生會工業工程及物流管理系學生會 | su_iess@connect.ust.hk | 72 | - | [iedass_hkust](https://www.instagram.com/iedass_hkust) | https://linktr.ee/iedass |
 | Integrative Systems & Design Students' Society, HKUSTSU <br/> 香港科技大學學生會綜合系統與設計學系學生會 | su_isdss@connect.ust.hk | 115 | - | [hkustsu_isdss](https://www.instagram.com/hkustsu_isdss) | https://linktr.ee/isdss |
@@ -101,25 +101,25 @@ Name | Email | LG5 Mail Box # | Facebook | Instagram
 | The Electronic and Computer Engineering Students’ Society, HKUSTSU <br/> 香港科技大學學生會電子及計算機工程系學生會 | su_ece@connect.ust.hk | 22 | [ecesshkustsu](https://www.facebook.com/ecesshkustsu) | [hkustsu_ecess](https://www.instagram.com/hkustsu_ecess) | https://linktr.ee/Ecess2425 |
 
 ## School / Departmental Societies (School of Science)
-Name | Email | LG5 Mail Box # | Facebook | Instagram
--|-|-|-|-
+| Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
+|-|-|-|-|-|-|
 | Biochemistry and Biotechnology Students’ Society, HKUSTSU <br/> 香港科技大學學生會生物化學系及生物科技系學生會 | su_bcss@connect.ust.hk | 13 | [groups/1931360543542762](https://www.facebook.com/groups/1931360543542762) | [hkustsu_biochem](https://www.instagram.com/hkustsu_biochem) | https://linktr.ee/biochem_keratin |
 | Biology and Biotechnology Students’ Society, HKUSTSU <br/> 香港科技大學學生會生物系及生物科技系學生會 | su_bio@connect.ust.hk | 16 | - | [hkustsu_biosoc](https://www.instagram.com/hkustsu_biosoc) | https://linktr.ee/biology2425 |
 | International Research Enrichment Students’ Society, HKUSTSU <br/> 香港科技大學學生會國際科研學生會 | su_iress@connect.ust.hk | 98 | [hkustsu.iress](https://www.facebook.com/hkustsu.iress) | [hkustsu_iress_ouroboros](https://www.instagram.com/hkustsu_iress_ouroboros) | https://linktr.ee/hkustsu_iress_ouroboros |
 
 ## School / Departmental Societies (School of Humanities & Social Science)
-Name | Email | LG5 Mail Box # | Facebook | Instagram
--|-|-|-|-
+| Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
+|-|-|-|-|-|-|
 | The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會 | su_hssu@connect.ust.hk | 99 | [theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU) | [hssu_hkustsu](https://www.instagram.com/hssu_hkustsu) | https://linktr.ee/hssu_hkustsu |
 
 ## School / Departmental Societies (Interdisciplinary Programs Office)
-Name | Email | LG5 Mail Box # | Facebook | Instagram
--|-|-|-|-
+| Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
+|-|-|-|-|-|-|
 | Environmental Management and Technology Students’ Society, HKUSTSU <br/> 香港科技大學學生會環境管理及科技學系學生會 | su_evmtss@connect.ust.hk | 12 | [EVMTSS.HKUSTSU](https://www.facebook.com/EVMTSS.HKUSTSU) | [envrsa.hkust](https://www.instagram.com/envrsa.hkust) | https://linktr.ee/Envrsa20242025 |
 
 ## Sports Association and Sports Clubs
-Name | Email | LG5 Mail Box # | Facebook | Instagram
--|-|-|-|-
+| Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
+|-|-|-|-|-|-|
 | Sports Association, HKUSTSU <br/> 香港科技大學學生會體育聯會 | su_sport@connect.ust.hk | 63 | [hkustsports](https://www.facebook.com/hkustsports) | [hkust_sportsassociation](https://www.instagram.com/hkust_sportsassociation) | https://hkustsportsassocia.wixsite.com/su-sport |
 | Archery Club, HKUSTSU <br/> 香港科技大學學生會箭藝學會 | su_archy@connect.ust.hk | 84 | [hkustsu.archery](https://www.facebook.com/hkustsu.archery) | [hkustsu.archery](https://www.instagram.com/hkustsu.archery) | https://sports.hkust.edu.hk/cgi-bin/sports_club_page.php?S=2 |
 | Competitive Cheerleading Club, HKUSTSU <br/> 香港科技大學學生會競技啦啦隊學會 | su_cheer@connect.ust.hk | 120 | - | [hkustsucheerleading](https://www.instagram.com/hkustsucheerleading) | - |
