@@ -122,6 +122,22 @@ Name|Email|LG5 Mail Box #|Facebook|Instagram|Website
 -|-|-|-|-|-
 The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會| su_hssu@connect.ust.hk|99|[theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU)|[hssu_hkustsu](https://www.instagram.com/hssu_hkustsu)|https://linktr.ee/hssu_hkustsu
 
+Name | Email | LG5 Mail Box # | Facebook | Instagram | Website
+-|-|-|-|-|-
+The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會| su_hssu@connect.ust.hk|99|[theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU)|[hssu_hkustsu](https://www.instagram.com/hssu_hkustsu)|https://linktr.ee/hssu_hkustsu
+
+Name | Email |LG5 Mail Box #|Facebook|Instagram|Website
+-|-|-|-|-|-
+The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會| su_hssu@connect.ust.hk|99|[theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU)|[hssu_hkustsu](https://www.instagram.com/hssu_hkustsu)|https://linktr.ee/hssu_hkustsu
+
+Name | Email|LG5 Mail Box #|Facebook|Instagram|Website
+-|-|-|-|-|-
+The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會| su_hssu@connect.ust.hk|99|[theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU)|[hssu_hkustsu](https://www.instagram.com/hssu_hkustsu)|https://linktr.ee/hssu_hkustsu
+
+Name |Email|LG5 Mail Box #|Facebook|Instagram|Website
+-|-|-|-|-|-
+The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會| su_hssu@connect.ust.hk|99|[theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU)|[hssu_hkustsu](https://www.instagram.com/hssu_hkustsu)|https://linktr.ee/hssu_hkustsu
+
 ## School / Departmental Societies (Interdisciplinary Programs Office)
 
 | Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
