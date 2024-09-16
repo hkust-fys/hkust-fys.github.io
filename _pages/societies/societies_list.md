@@ -3,8 +3,6 @@ layout: post
 title: Societies
 ---
 
-List of Societies
-
 ### Ones under the Student Union
 
 [List source](https://dst.hkust.edu.hk/eng/detail.php?catid=7&sid=51&tid=111&nid=28) taken at 2024-09-16
@@ -29,11 +27,11 @@ Also paste Website links over by cursor
 
 ## Students' Union
 
-| Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
-| - | - | - | - | - | - |
-| The Council <br/> 香港科技大學學生會評議會 | su_ucoun@connect.ust.hk | 46 | [HKUSTSUCouncil](https://www.facebook.com/HKUSTSUCouncil) | [hkustsu_thecouncil](https://www.instagram.com/hkustsu_thecouncil) | https://hkustsucouncil.wordpress.com |
-| The Editorial Board <br/> 香港科技大學學生會編輯委員會 | su_eb@connect.ust.hk | 2 | [hkusteb](https://www.facebook.com/hkusteb) | [hkustsu_eb](https://www.instagram.com/hkustsu_eb) | https://hkusteb.wordpress.com |
-| The Executive Committee <br/> 香港科技大學學生會幹事會 | su_union@connect.ust.hk | 1 | [HKUSTSU](https://www.facebook.com/HKUSTSU) | [hkustsu](https://www.instagram.com/hkustsu) | http://su.ust.hk |
+Name | Email | LG5 Mail Box # | Facebook | Instagram | Website
+- | - | - | - | - | -
+The Council <br/> 香港科技大學學生會評議會 | su_ucoun@connect.ust.hk | 46 | [HKUSTSUCouncil](https://www.facebook.com/HKUSTSUCouncil) | [hkustsu_thecouncil](https://www.instagram.com/hkustsu_thecouncil) | https://hkustsucouncil.wordpress.com
+The Editorial Board <br/> 香港科技大學學生會編輯委員會 | su_eb@connect.ust.hk | 2 | [hkusteb](https://www.facebook.com/hkusteb) | [hkustsu_eb](https://www.instagram.com/hkustsu_eb) | https://hkusteb.wordpress.com
+The Executive Committee <br/> 香港科技大學學生會幹事會 | su_union@connect.ust.hk | 1 | [HKUSTSU](https://www.facebook.com/HKUSTSU) | [hkustsu](https://www.instagram.com/hkustsu) | http://su.ust.hk
 
 ## Art and Cultural Clubs
 
@@ -116,9 +114,13 @@ Also paste Website links over by cursor
 
 ## School / Departmental Societies (School of Humanities & Social Science)
 
-Name | Email | LG5 Mail Box # | Facebook | Instagram | Website |
-- | - | - | - | - | - |
-The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會 | su_hssu@connect.ust.hk | 99 | [theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU) | [hssu_hkustsu](https://www.instagram.com/hssu_hkustsu) | https://linktr.ee/hssu_hkustsu |
+Name|Email|LG5 Mail Box #|Facebook|Instagram|Website
+- | - | - | - | - | -
+The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會| su_hssu@connect.ust.hk|99|[theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU)|[hssu_hkustsu](https://www.instagram.com/hssu_hkustsu)|https://linktr.ee/hssu_hkustsu
+
+Name|Email|LG5 Mail Box #|Facebook|Instagram|Website
+-|-|-|-|-|-
+The Humanities and Social Science Students’ Union, HKUSTSU <br/> 香港科技大學學生會人文及社會科學學院學生會| su_hssu@connect.ust.hk|99|[theHSSUHKUSTSU](https://www.facebook.com/theHSSUHKUSTSU)|[hssu_hkustsu](https://www.instagram.com/hssu_hkustsu)|https://linktr.ee/hssu_hkustsu
 
 ## School / Departmental Societies (Interdisciplinary Programs Office)
 
