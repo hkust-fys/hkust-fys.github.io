@@ -182,5 +182,7 @@ Volleyball Club, HKUSTSU <br/> 香港科技大學學生會排球會 | [![Email] 
 Wing Chun Martial Arts Society, HKUSTSU <br/> 香港科技大學學生會詠春國術學會 | [![Email] su_wcsoc@connect.ust.hk](mailto:su_wcsoc@connect.ust.hk) <br/> ![Mail] LG5 Mail Box 96, HKUST, Clear Water Bay, Kowloon <br/> [![FB] ustwcsoc](https://www.facebook.com/ustwcsoc) <br/> [![IG] wingchun_hkust](https://www.instagram.com/wingchun_hkust) <br/> [![Web] https://sports.hkust.edu.hk/cgi-bin/sports_club_page.php?S=33](https://sports.hkust.edu.hk/cgi-bin/sports_club_page.php?S=33)
 
 <a href="https://www.flaticon.com/free-icons/web-site" title="Web icon">Web icon by riajulislam - Flaticon</a>
+
 <a href="https://www.freepik.com/icon/email_4546924#fromView=keyword&page=1&position=22&uuid=69b806e9-131d-4449-99e3-b2b27cf06fa1">Mail icon by Peter Lakenbrink - Freepik</a>
+
 <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icon by Smashicons - Flaticon</a>
