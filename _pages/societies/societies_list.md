@@ -12,14 +12,14 @@ title: Societies
 [Email]: icons/Email.png
 
 Legend
-- [FB] Active Facebook
-- [FBx] Outdated Facebook
-- [IG] Active Instagram
-- [IGx] Outdated Instagram
-- [Web] Active Website
-- [Webx] Outdated Website
-- [Mail] Active mail address
-- [Email] Active email address
+- ![FB] Active Facebook
+- ![FBx] Outdated Facebook
+- ![IG] Active Instagram
+- ![IGx] Outdated Instagram
+- ![Web] Active Website
+- ![Webx] Outdated Website
+- ![Mail] Active mail address
+- ![Email] Active email address
 
 ### Ones under the Student Union
 
