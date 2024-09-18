@@ -12,6 +12,7 @@ title: Societies
 [Email]: icons/Email.png
 
 Legend
+
 - ![FB] Active Facebook
 - ![FBx] Outdated Facebook
 - ![IG] Active Instagram
