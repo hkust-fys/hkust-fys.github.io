@@ -2,14 +2,14 @@
 layout: post
 title: Societies
 ---
-[FB] : icons/FB.png
+[FB]: icons/FB.png
 [FBx]: icons/FBx.png
-[IG] : icons/IG.png
+[IG]: icons/IG.png
 [IGx]: icons/IGx.png
-[Web] : icons/Web.png
+[Web]: icons/Web.png
 [Webx]: icons/Webx.png
 [Mail]: icons/Mail.png
-[Email] : icons/Email.png
+[Email]: icons/Email.png
 
 Legend
 - ![FB] Active Facebook
