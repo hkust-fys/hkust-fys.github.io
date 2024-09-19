@@ -35,7 +35,7 @@ Regex search: \n\n[\s\S]+Kowloon|\n\n\n[\s\S]+Study Abroad\n\n$
 Regex replace (empty)
 
 Regex search: ([^\n]+)\n([^\t\n]+)\t([a-z0-9.@_]+)\t(\d+)
-Regex replace: $1 <br/> $2 | [![Email] $3](mailto:$3) <br/> ![Mail] LG5 Mail Box $4, HKUST, Clear Water Bay, Kowloon <br/> [![FB] hkustsu](https://www.facebook.com/hkustsu) <br/> [![IG] hkustsu](https://www.instagram.com/hkustsu) <br/> [![Web] hkustsu](hkustsu)
+Regex replace: $1 <br/> $2 | [![Email] $3](mailto:$3) <br/> ![Mail] Mail Box $4, LG5 Student Amneties (DSTO), HKUST, Clear Water Bay, Kowloon <br/> [![FB] hkustsu](https://www.facebook.com/hkustsu) <br/> [![IG] hkustsu](https://www.instagram.com/hkustsu) <br/> [![Web] hkustsu](hkustsu)
 
 Regex search: \t\n([^\n]+)\nName of the Society\tEmail\tMail Box #
 Regex replace: \n## $1\n\nSociety | Details\n-|-
