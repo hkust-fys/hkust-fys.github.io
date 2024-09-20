@@ -2,6 +2,8 @@
 layout: post
 title: Societies
 ---
+![Societies banner display](https://dst.hkust.edu.hk/files/1711008892_p.jpg)
+
 [FB]: icons/FB.png
 [FBx]: icons/FBx.png
 [IG]: icons/IG.png
