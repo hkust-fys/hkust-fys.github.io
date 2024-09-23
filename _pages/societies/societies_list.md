@@ -208,6 +208,7 @@ Regex replace: $1 | [![Email] $2](mailto:$2) <br/> ![Home] $3 <br/> [![FB] hkust
 Then manually copy Facebook IDs and Instagram IDs and paste over hkustsu, select hkustsu by double clicking
 Also paste Website links over by cursor
 -->
+
 Society | Details
 -|-
 180° Degree Consulting | [![Email] hkust180dc@ust.hk](mailto:hkust180dc@ust.hk) <br/> ![Home] School of Business & Management <br/> [![FBx] 180dchkust](https://www.facebook.com/180dchkust) <br/> [![IG] 180dc.hkust](https://www.instagram.com/180dc.hkust) <br/> [![Web] www.180dc.org](https://www.180dc.org/)
