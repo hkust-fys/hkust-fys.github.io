@@ -245,7 +245,7 @@ UGIX Organizing Team | [![Email] ughall9OT@ust.hk](mailto:ughall9OT@ust.hk) <br/
 Ultimate Frisbee Club | [![Email] ultifrisbee@connect.ust.hk](mailto:ultifrisbee@connect.ust.hk) <br/> ![Home] Dean of Students' Office <br/> [![FBx] groups/hkust.ultimate](https://www.facebook.com/groups/hkust.ultimate) <br/> [![IG] ustfrisbee](https://www.instagram.com/ustfrisbee) <br/> [![Web] linktr.ee/ustfrisbee](https://linktr.ee/ustfrisbee)
 Ustage Musical Production Group | ![Home] Division of Humanities
 USThing | [![Email] usthing@ust.hk](mailto:usthing@ust.hk) <br/> ![Home] School of Business & Management <br/> [![FB] USThing](https://www.facebook.com/USThing) <br/> [![IG] hkust.usthing](https://www.instagram.com/hkust.usthing) <br/> [![Web] usthing.xyz](https://usthing.xyz)
-Water Sports Club | [![Email] wsc@ust.hk](mailto: wsc@ust.hk) <br/> ![Home] Dean of Students' Office <br/> [![FB] hkustwsc](https://www.facebook.com/hkustwsc) <br/> [![Web] sports.hkust.edu.hk/cgi-bin/sports.php?S=34](https://sports.hkust.edu.hk/cgi-bin/sports.php?S=34)
+Water Sports Club | [![Email] wsc@ust.hk](mailto:wsc@ust.hk) <br/> ![Home] Dean of Students' Office <br/> [![FB] hkustwsc](https://www.facebook.com/hkustwsc) <br/> [![Web] sports.hkust.edu.hk/cgi-bin/sports.php?S=34](https://sports.hkust.edu.hk/cgi-bin/sports.php?S=34)
 Women In Science and Engineering Club (WISE) | [![Email] wiseclub@ust.hk](mailto:wiseclub@ust.hk) <br/> ![Home] Department of Civil and Environmental Engineering <br/> [![FBx] wiseclubwfa](https://www.facebook.com/wiseclubwfa) <br/> [![IG] thewiseclub](https://www.instagram.com/thewiseclub) <br/> [![Web] linktr.ee/thewiseclub](https://linktr.ee/thewiseclub)
 
 ### MSSS Clubs
