@@ -30,8 +30,7 @@ Legend
 
 The Students' Union "operates independently from the University, and as such, any stances or initiatives undertaken by the SU are not indicative of the University's viewpoints or actions." - [DSTO](https://dst.hkust.edu.hk/eng/detail.php?catid=7&sid=51)
 
-[List source](https://dst.hkust.edu.hk/eng/detail.php?catid=7&sid=51&tid=111&nid=28) taken at 2024-09-16
-Facebooks, Instagrams and Websites aggregated from Google search, Facebook search, Instagram search, [USThing](https://org.usthing.xyz), and [HKUSTSU Council](https://hkustsucouncil.wordpress.com/standing-committees/the-affiliated-societies-committee/list-of-affiliated-societies). In case of each cabinet creating their own separate pages over the years, the latest one will be chosen. *If a society no longer maintains one of the pages, a previous cabinet's one will be chosen! Usually Instagram pages and linktr.ee are most updated. Online forms or Word/Excel/PowerPoint documents will not count as websites because they are temporary.*
+[List source](https://dst.hkust.edu.hk/eng/detail.php?catid=7&sid=51&tid=111&nid=28) taken at 2024-09-16. Facebooks, Instagrams and Websites aggregated from Google search, Facebook search, Instagram search, [USThing](https://org.usthing.xyz), and [HKUSTSU Council](https://hkustsucouncil.wordpress.com/standing-committees/the-affiliated-societies-committee/list-of-affiliated-societies). In case of each cabinet creating their own separate pages over the years, the latest one will be chosen. *If a society no longer maintains one of the pages, a previous cabinet's one will be chosen! Usually Instagram pages and linktr.ee are most updated. Online forms or Word/Excel/PowerPoint documents will not count as websites because they are temporary.*
 
 <!--
 To update, open a new VSCode tab
@@ -192,8 +191,7 @@ Wing Chun Martial Arts Society, HKUSTSU <br/> 香港科技大學學生會詠春�
 
 Each Department-associated group (DAG) "should have an advisor from the sponsoring department to provide guidance and oversee the group’s development. All activities organized by DAGs should obtain endorsement/approval from their sponsoring department. The department may also provide other support, like funding, venue booking, storage space, subject to availability. Registration will open from September to March every year, a form should be completed by the sponsor university department or office. Please contact [ssa@ust.hk](mailto:ssa@ust.hk) for registration and details." - [DSTO](https://dst.hkust.edu.hk/eng/detail.php?catid=7&sid=51)
 
-[List source](https://dst.hkust.edu.hk/eng/detail.php?catid=7&sid=51&tid=111&nid=29) taken at 2024-09-24
-Facebooks, Instagrams and Websites aggregated from Google search, Facebook search, Instagram search and [USThing](https://org.usthing.xyz). In case of each cabinet creating their own separate pages over the years, the latest one will be chosen. *If a society no longer maintains one of the pages, a previous cabinet's one will be chosen! Usually Instagram pages and linktr.ee are most updated. Online forms or Word/Excel/PowerPoint documents will not count as websites because they are temporary.*
+[List source](https://dst.hkust.edu.hk/eng/detail.php?catid=7&sid=51&tid=111&nid=29) taken at 2024-09-24. Facebooks, Instagrams and Websites aggregated from Google search, Facebook search, Instagram search and [USThing](https://org.usthing.xyz). In case of each cabinet creating their own separate pages over the years, the latest one will be chosen. *If a society no longer maintains one of the pages, a previous cabinet's one will be chosen! Usually Instagram pages and linktr.ee are most updated. Online forms or Word/Excel/PowerPoint documents will not count as websites because they are temporary.*
 
 <!--
 To update, open a new VSCode tab
