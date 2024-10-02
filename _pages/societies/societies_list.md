@@ -218,7 +218,7 @@ Dawn Advisory | [![Email] dawnhkust@gmail.com](mailto:dawnhkust@gmail.com) <br/>
 Environmental Management and Technology Students’ Association (ENVRSA) | [![Email] envrsa@ust.hk](mailto:envrsa@ust.hk) <br/> [![FBx] EVMTSS.HKUSTSU](https://www.facebook.com/EVMTSS.HKUSTSU) <br/> [![IG] envrsa.hkust](https://www.instagram.com/envrsa.hkust) <br/> [![Web] linktr.ee/Envrsa20242025](https://linktr.ee/Envrsa20242025)
 iGEM (HKUST Student Team) | [![Email] igem@ust.hk](mailto:igem@ust.hk) <br/> ![Home] Dean of Students' Office <br/> [![FBx] hkustigem](https://www.facebook.com/hkustigem) <br/> [![IG] igem.hkust](https://www.instagram.com/igem.hkust) <br/> [![Webx] linktr.ee/igem.hkust](https://linktr.ee/igem.hkust) <br/> [![Web] linktr.ee/igem.hkust](https://linktr.ee/igem.hkust) <br/> [![Web] 2024.igem.wiki/hkust](https://2024.igem.wiki/hkust)
 iLEAD | [![Email] ilead@ust.hk](mailto:ilead@ust.hk) <br/> ![Home] Dean of Students' Office
-Information Systems Students' Society | ![Home] Department of Information Systems, Business Statistics & Operations Management
+Information Systems Students' Society | [![Email] isss@ust.hk](mailto:isss@ust.hk) <br/> ![Home] School of Business & Management <br/> ![Home] Department of Information Systems, Business Statistics & Operations Management
 International Consulting Club | [![Email] icc.hkust@gmail.com](mailto:icc.hkust@gmail.com) <br/> ![Home] School of Business & Management <br/> [![FBx] internationalconsultingclub](https://www.facebook.com/internationalconsultingclub) <br/> [![IG] icc.hkust](https://www.instagram.com/icc.hkust)
 International Students Association | [![Email] isa@ust.hk](mailto:isa@ust.hk) <br/> ![Home] Dean of Students' Office <br/> [![FB] hkustisa](https://www.facebook.com/hkustisa) <br/> [![IG] hkustisa](https://www.instagram.com/hkustisa) <br/> [![Webx] isa.hkust.edu.hk/](https://isa.hkust.edu.hk/)
 Investment Circle | [![Email] icircle.hkust@gmail.com](mailto:icircle.hkust@gmail.com) <br/> ![Home] World Bachelor in Business Program, School of Business & Managment <br/> [![FBx] investmentcircle](https://www.facebook.com/investmentcircle) <br/> [![IG] icircle.hkust](https://www.instagram.com/icircle.hkust) <br/> [![Web] linktr.ee/icircle.hkust](https://linktr.ee/icircle.hkust)
@@ -277,5 +277,9 @@ Credits
 <a href="https://www.freepik.com/icon/email_4546924#fromView=keyword&page=1&position=22&uuid=69b806e9-131d-4449-99e3-b2b27cf06fa1">Mail icon by Peter Lakenbrink - Freepik</a>
 
 <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icon by Smashicons - Flaticon</a>
+<<<<<<< HEAD
+=======
 
 <a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home icon by hqrloveq - Flaticon</a>
+
+>>>>>>> 7075fd5609ce5290b73d6c8c10b55a6ee6ec7626
