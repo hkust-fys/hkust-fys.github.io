@@ -40,3 +40,5 @@ Second, for **Readers**, here's the table of contents:
 ***HKUST FYS DISCORD*** is a student managed server mainly for chit-chat and exchanging inspirations. We welcome everyone including non-UST members to learn more about here. Pop-up activities in real life are held sometimes for fostering the bonding between members.
 
 LINK FOR JOINING: <https://discord.gg/h9RPQyWnA6>
+
+<iframe src="https://discord.com/widget?id=880301598981648416&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
