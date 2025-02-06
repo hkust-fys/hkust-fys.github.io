@@ -270,7 +270,7 @@ Women In Science and Engineering Club (WISE) | [![Email] wiseclub@ust.hk](mailto
 - 创业俱乐部 Entrepreneurship Club
 - 金融科技俱乐部 Fintech Club
 
-Credits
+## Credits
 
 <a href="https://www.flaticon.com/free-icons/web-site" title="Web icon">Web icon by riajulislam - Flaticon</a>
 
