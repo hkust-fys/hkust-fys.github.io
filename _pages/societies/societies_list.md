@@ -273,6 +273,6 @@ Women In Science and Engineering Club (WISE) | [![Email] wiseclub@ust.hk](mailto
 ## Credits
 
 - <a href="https://www.flaticon.com/free-icons/web-site" title="Web icon">Web icon by riajulislam - Flaticon</a>
-- <a href="https://www.freepik.com/icon/email_4546924#fromView=keyword&page=1&position=22&uuid=69b806e9-131d-4449-99e3-b2b27cf06fa1">Mail icon by Peter Lakenbrink - Freepik</a>
+- <a href="https://www.flaticon.com/free-icon/home-button_5974636?term=home+button&page=1&position=9&origin=tag&related_id=5974636">Mail icon by Peter Lakenbrink - Freepik</a>
 - <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icon by Smashicons - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home icon by hqrloveq - Flaticon</a>
