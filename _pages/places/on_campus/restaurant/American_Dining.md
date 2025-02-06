@@ -23,4 +23,4 @@ Quality is quite average but they are cheap (38-50) compare to other restaurants
 
 No harm trying I guess?
 
-"My favourite meal is ordering rice /w chicken chop but change it to spagetti, fewer sauce and more spagetti." - KF8311, Feb 2025
+"My favourite meal is ordering rice /w chicken chop but change it to spagetti, fewer sauce and more spagetti." - KF8311
