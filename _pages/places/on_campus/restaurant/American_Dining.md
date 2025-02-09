@@ -17,7 +17,7 @@ Don't try the baked rice/spagetti as they are premade, cold and tastes terrible.
 
 ### All day breakfast
 
-Quality is quite average but they are cheap (38-50) compare to other restaurants around the metroplitian
+Quality is quite average but they are cheap (`$38`-`$50`) compare to other restaurants around the metroplitian
 
 ### Other
 
