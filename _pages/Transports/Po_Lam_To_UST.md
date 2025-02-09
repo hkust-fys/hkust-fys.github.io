@@ -51,8 +51,7 @@ The arrow points to the road to mountain. Let's go
 
 You should be reading the following website clearly before attempting any hiking activities, although the hiking journey should be fast.
 
-[Safety Hints on Hiking
-](https://www.lcsd.gov.hk/en/healthy/hiking/safety.html)
+[Safety Hints on Hiking](https://www.lcsd.gov.hk/en/healthy/hiking/safety.html)
 
 You should be following the maps as a guide. The images on the guide are for references only. We are not responsible for any loss or damage whatsoever arising out of or in connection with any information including data on this website.
 
