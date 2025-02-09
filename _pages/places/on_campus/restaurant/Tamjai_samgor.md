@@ -7,7 +7,7 @@ It is located in LG7. Newly launched in 2024/9. This is exactly the same Tamjai 
 
 ### Daily set
 
-They will offer some budget meals with a price varies from '$42' to '$50' ish? Those meals come with a can of soft drink. You need to pay '$3' and '$5' to upgrade your drink to hot drinks and cold drinks respectively. The toppings and soup of those meals are fixed
+They will offer some budget meals with a price varies from `$42` to `$50` ish? Those meals come with a can of soft drink. You need to pay `$3` and `$5` to upgrade your drink to hot drinks and cold drinks respectively. The toppings and soup of those meals are fixed
 
 ### Mixian with optional toppings (自選米線)
 
