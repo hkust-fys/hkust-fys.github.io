@@ -64,6 +64,7 @@ Relevant areas outside the University
   - [Seafront Cafeteria]()
   - [Subway](on_campus/restaurant/Subway.md)
   - [Starbucks]()
+  - [Tamjai Samgor](on_campus/restaurant/Tamjai_samgor.md)
   - [TT Veggie]()
   - [Uni Bistro]()
   - [UniQue]()
