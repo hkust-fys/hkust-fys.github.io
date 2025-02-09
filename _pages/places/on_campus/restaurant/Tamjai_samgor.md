@@ -3,7 +3,7 @@ layout: post
 title: Tamjai Samgor (譚仔三哥)
 ---
 
-It is located in LG7. Newly launched in 2024/9. This is exactly the same Tamjai Samgor you have in other districts in HK. As a chain store, the offered meals are quite similiar to other Tamjai Samgor. 
+It is located in LG7. Newly launched in 2024/9. This is exactly the same Tamjai Samgor you have in other districts in HK. As a chain store, the offered meals are quite similiar to other Tamjai Samgor.
 
 ### Daily set
 
@@ -18,7 +18,7 @@ You are free to add as many toppings as you like if you are rich enough. However
 
 ### Cross-Bridge Mixian (過橋米線)
 
-An expensive one, but worthy as it have many toppings: 
+An expensive one, but worthy as it have many toppings:
 Pork (豬肉), Ham (火腿), Fish Ball (魚蛋), Minced Pork (乍醬), Bean Curd Sheets (腐皮), Chinese Chives (韭菜), Beef (牛肉), Beef Ball (牛丸), Cuttlefish Ball (墨丸), Green Bean Sprouts (芽菜), Bean Curd Puffs (豆卜), Bamboo Fungus (竹笙), Chicken (雞肉), Pork Belly (腩肉), Pork Liver (豬膶), Pickled Cabbage (酸菜), Lettuce (生菜)
 
 ### Snacks
