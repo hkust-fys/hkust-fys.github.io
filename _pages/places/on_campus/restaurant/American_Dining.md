@@ -7,7 +7,7 @@ It is located in 1/F. It offers cheap spaghetti, burgers, fries and coffee.
 
 ### Daily lunch set (lunch, dinner)
 
-They offer '$36' daily lunch set with different consists everyday. They are usually rice/spagetti served with some meat and sauce.
+They offer `$36` daily lunch set with different consists everyday. They are usually rice/spagetti served with some meat and sauce.
 The quality of Beef and Chicken are quite high (in UST) but pork is quite average.
 A good thing of Diner is you can request additional rice, spagetti or sauce for free!
 
