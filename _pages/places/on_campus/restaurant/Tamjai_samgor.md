@@ -12,7 +12,7 @@ They will offer some budget meals with a price varies from '$42' to '$50' ish? T
 ### Mixian with optional toppings (自選米線)
 
 The toppings offered are listed below: <br>
-![Samgor_menu](media/samgor_menu.jpg) <br>
+![Samgor_menu](/media/samgor_menu.jpg) <br>
 
 You are free to add as many toppings as you like if you are rich enough. However, if you want many toppings, I would recommend you to try "Cross-Bridge Mixian" (過橋米線)
 
@@ -25,4 +25,4 @@ Pork (豬肉), Ham (火腿), Fish Ball (魚蛋), Minced Pork (乍醬), Bean Curd
 
 You may also pay a little more for some snacks. The undoubtably BEST one is Hunan Cumin Chicken Wings / TuFei Chicken Wings (土匪雞翼). You can share with your peers or yourself, yum!
 Here's the menu for snacks: <br>
-![Samgor_menu](media/samgor_menu_2.jpg) <br>
+![Samgor_menu](/media/samgor_menu_2.png) <br>
