@@ -26,8 +26,8 @@ If you are from Diamond Hill, you can choose to take 91/91M/91P at bus terminal 
 
 | Stations                                                  | Lines                           | Exit for (mini)bus |
 | ------------------------------------------------------------------ | ------------------------------- | -- |
-| [Choi Hung](https://en.wikipedia.org/wiki/Choi_Hung_station)       | Kwun Tong Line                  | C1 (minibus) / C2 (bus) |
-| [Diamond Hill](https://en.wikipedia.org/wiki/Diamond_Hill_station) | Kwun Tong Line and Tuen Ma Line | C2 |
+| [Choi Hung](https://en.wikipedia.org/wiki/Choi_Hung_station)       | Kwun Tong Line🟩                  | C1 (minibus) / C2 (bus) |
+| [Diamond Hill](https://en.wikipedia.org/wiki/Diamond_Hill_station) | Kwun Tong Line and Tuen Ma Line🟩🟫 | C2 |
 
 #### 🚌 Bus to HKUST (Diamond Hill/Choi Hung)
 
@@ -37,7 +37,7 @@ If you are from Diamond Hill, you can choose to take 91/91M/91P at bus terminal 
 | [91M](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91M&lang=en)   | Po Lam Station  | Pik Hoi House / Ngau Chi Wan Village | HKUST (North) |
 | [91P](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91P&lang=en) ^   | HKUST (North)   | Ngau Chi Wan Village                 | HKUST (North) |
 
-- ^: Morning service only (07:55 08:05 08:15 08:30 08:50)
+- ^: Morning service only (07:55 ,08:05 ,08:15 ,08:30 ,08:50 ,09:30 ,09:50) (From Diamond Hill)
 
 #### 🚐 Minibus to HKUST (Choi Hung)
 
@@ -73,9 +73,9 @@ Also, HKUST is offering 3 free shuttles from Hang Hau to HKUST.
 | Route | Direction | Get on at | Get off at |
 | ----- | --------- | --------- | ---------- |
 | [91M](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91M&lang=en) | Diamond Hill Station | Hang Hau Station | HKUST (South) |
-| [91B](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91B&lang=en)^ | HKUST (South) | Hang Hau Station | HKUST (South) |
+| [91B](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91B&lang=en)^ | HKUST (Shaw Auditorium) | Hang Hau Station | HKUST (Lo Kwee-Seong Building) |
 
-- ^ Peak hour route: departs at 08:30
+- ^ Peak hour route: departs at 08:35 and 08:55
 
 #### 🚐 Minibus to HKUST (Hang Hau/Po Lam)
 
@@ -103,8 +103,8 @@ Both [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) and [T
 
 | Station | Line(s) | Exit for bus |
 | :--- | :--- | :---- |
-| [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) | Kwun Tong Line, Tseung Kwan O Line | A1 |
-| [Tseung Kwan O](https://en.wikipedia.org/wiki/Tseung_Kwan_O_station) |  Tseung Kwan O Line | A1 |
+| [Tiu Keng Leng](https://en.wikipedia.org/wiki/Tiu_Keng_Leng_station) | Kwun Tong Line, Tseung Kwan O Line🟩🟪| A1 |
+| [Tseung Kwan O](https://en.wikipedia.org/wiki/Tseung_Kwan_O_station) |  Tseung Kwan O Line🟪 | A1 |
 
 #### 🚌 Bus to HKUST (TKO/TKL)
 
@@ -128,7 +128,7 @@ Ngau Tau Kok is connected to Kwun Tong Line. You can choose to take minibus rout
 
 | Station | Line(s) | Exit for minibus |
 | :--- | :--- | :--- |
-| [Ngau Tau Kok](https://en.wikipedia.org/wiki/Ngau_Tau_Kok_station) | Kwun Tong Line | A |
+| [Ngau Tau Kok](https://en.wikipedia.org/wiki/Ngau_Tau_Kok_station) | Kwun Tong Line🟩 | A |
 
 #### 🚐 Minibus to HKUST (Ngau Tau Kok)
 
@@ -156,8 +156,8 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 
 | Route | Direction                |
 | ----- | ------------------------ |
-| 91    | Clear Water Bay          |
-| 91M   | Po Lam                   |
+| [91](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91&lang=en)     | Clear Water Bay          |
+| [91M](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91M&lang=en)    | Po Lam                   |
 | 792M  | Tseung Kwan O / Sai Kung |
 
 #### 🚐 Minibus from HKUST (North)
@@ -167,7 +167,7 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 | 11    | Hang Hau  |
 | 11M   | Hang Hau  |
 | 11S * | Po Lam    |
-| 12    | Po Lam    |
+| 12    | Po Lam (Via Andersen Area)   |
 
 - \* Overnight route
 
@@ -177,13 +177,13 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 
 | Route | Direction                |
 | ----- | ------------------------ |
-| 91    | Diamond Hill (via Choi Hung Station)|
-| 91M   | Diamond Hill (via Choi Hung Station)         |
-| 91P * | Choi Hung|
-| 291P & | Mong Kok |
+| [91](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91&lang=en)    | Diamond Hill (via Choi Hung Station)|
+| [91M](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91M&lang=en)   | Diamond Hill (via Choi Hung Station)         |
+| [91P](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91P&lang=en) * | Choi Hung Station ONLY |
+| [291P](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=291P&lang=en)  & | Mong Kok |
 
-- \*: Evening Peak Hour only (17:25 - 18:30)
-- &: Evening Peak Hour only (17:45)
+- \*: Evening Peak Hour only (16:30, 17:25, 17:40, 17:50 ,18:00, 18:15, 18:30)
+- &: Evening Peak Hour only (17:45, 18:05)
 
 #### 🚐 Minibus from HKUST (South)
 
