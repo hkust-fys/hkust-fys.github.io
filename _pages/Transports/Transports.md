@@ -37,7 +37,7 @@ If you are from Diamond Hill, you can choose to take 91/91M/91P at bus terminal 
 | [91M](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91M&lang=en)   | Po Lam Station  | Pik Hoi House / Ngau Chi Wan Village | HKUST (North) |
 | [91P](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91P&lang=en) ^   | HKUST (North)   | Ngau Chi Wan Village                 | HKUST (North) |
 
-- ^: Morning service only (07:55 ,08:05 ,08:15 ,08:30 ,08:50 ,09:30 ,09:50) (From Diamond Hill)
+- ^: Morning service only (07:55, 08:05, 08:15, 08:30, 08:50, 09:30, 09:50) (From Diamond Hill)
 
 #### 🚐 Minibus to HKUST (Choi Hung)
 
