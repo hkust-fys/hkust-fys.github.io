@@ -49,7 +49,7 @@ Relevant areas outside the University
 - **Offices**
 - **Restaurants**
   - [American Diner](on_campus/restaurant/American_Dining.md)
-  - [Asian Pacific]()
+  - [Asia Pacific](on_campus/restaurant/Asia_Pacific.md)
   - [Can.teen (LG1&LSK G/F)]()
   - [China Garden]()
   - [Ebeneezer's]()
