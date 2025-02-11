@@ -3,7 +3,7 @@ layout: post
 title: Gold Rice Bowl(GRB, 金兜)
 ---
 
-It is located in LG7. Probably you may have heard from your seniors, saying how bad the food is, or [how they get diarrhea after having the food from GRB](/anecdotes/GRB_rumor). However, this never happens to me. To be fair, GRB's food is not that bad, if you only consider their Dan Dan noodles (擔擔麪) and Choice of two/three dishes (兩餸/三餸飯). I do not make comments on other foods since they are not that popular. (When compared with Dan Dan noodles and Choice of n dishes. Just go to there and see how long the queue is.)
+It is located in LG7. Probably you may have heard from your seniors, saying how bad the food is, or [how they get diarrhea after having the food from GRB](https://hkust-fys.github.io/anecdotes/GRB_rumor.md). However, this never happens to me. To be fair, GRB's food is not that bad, if you only consider their Dan Dan noodles (擔擔麪) and Choice of two/three dishes (兩餸/三餸飯). I do not make comments on other foods since they are not that popular. (When compared with Dan Dan noodles and Choice of n dishes. Just go to there and see how long the queue is.)
 
 GRB starts at 10:45am. If you come early (Before 11:15am) then you do not need to queue.
 
