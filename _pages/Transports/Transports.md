@@ -158,16 +158,16 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 | ----- | ------------------------ |
 | [91](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91&lang=en)     | Clear Water Bay          |
 | [91M](https://search.kmb.hk/KMBWebSite/?action=routesearch&route=91M&lang=en)    | Po Lam                   |
-| 792M  | Tseung Kwan O / Sai Kung |
+| [792M](https://mobile.citybus.com.hk/nwp3/?f=1&ds=792M--Tseung_Kwan_O_Station&l=1)  | Tseung Kwan O / Sai Kung |
 
 #### 🚐 Minibus from HKUST (North)
 
 | Route | Direction |
 | ----- | --------- |
-| 11    | Hang Hau  |
-| 11M   | Hang Hau  |
-| 11S * | Po Lam    |
-| 12    | Po Lam (Via Andersen Area)   |
+| [11](https://www.16seats.net/eng/gmb/gn_11.html)    | Hang Hau  |
+| [11M](https://www.16seats.net/eng/gmb/gn_11m.html#spd)   | Hang Hau  |
+| [11S](https://www.16seats.net/eng/gmb/gn_11s.html) * | Po Lam    |
+| [12](https://www.16seats.net/eng/gmb/gn_12.html)    | Po Lam (Via Anderson Area)   |
 
 - \* Overnight route
 
@@ -189,10 +189,10 @@ Shuttles are also provided in the evening. The shuttle stop is at Atrium (For Di
 
 | Route | Direction |
 | ----- | --------- |
-| 11    | Choi Hung  |
-| 11B ^  | Choi Hung  |
-| 11S *  | Choi Hung    |
-| 104    | Ngau Tau Kok |
+| [11](https://www.16seats.net/eng/gmb/gn_11.html)     | Choi Hung  |
+| [11B](https://www.16seats.net/eng/gmb/gn_11b.html)   ^  | Choi Hung  |
+| [11S](https://www.16seats.net/eng/gmb/gn_11s.html)  *  | Choi Hung    |
+| [104](https://www.16seats.net/eng/gmb/gn_104.html)   | Ngau Tau Kok |
 
 - ^: Evening Peak Hour only (16:30 - 19:00)
 - \*: Overnight route
